@@ -1,7 +1,9 @@
 
-此版本纯属备份,一下为原信息
+此版本纯属备份,以下为原信息
 
-This Version Is Purely Backup, Once For The Original Information
+!!!!不喜勿用
+
+This Version Is Purely Backup, The Following Is The Original Information
 
 
 =============END=================
