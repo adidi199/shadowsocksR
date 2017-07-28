@@ -1,0 +1,1580 @@
+2017-06-08 08:30:58 INFO     util.py:85 loading libcrypto from libcrypto.so.1.0.0
+2017-06-08 08:30:58 INFO     asyncdns.py:324 dns server: [('169.254.169.254', 53), ('127.0.0.53', 53)]
+2017-06-08 08:30:58 INFO     shell.py:72 ShadowsocksR 3.3.3 2017-06-03
+2017-06-08 08:30:58 INFO     db_transfer.py:236 current process RLIMIT_NOFILE resource: soft 512000 hard 512000
+2017-06-08 08:30:58 INFO     db_transfer.py:203 db start server at port [2333] pass [b'19951127'] protocol [b'auth_chain_a'] method [b'none'] obfs [b'tls1.2_ticket_auth']
+2017-06-08 08:30:58 INFO     server_pool.py:127 starting server at [::]:2333
+2017-06-08 08:30:58 INFO     server_pool.py:153 starting server at 0.0.0.0:2333
+2017-06-08 08:30:58 INFO     db_transfer.py:203 db start server at port [2334] pass [b'liangcong'] protocol [b'auth_aes128_md5'] method [b'chacha20-ietf'] obfs [b'tls1.2_ticket_auth']
+2017-06-08 08:30:58 INFO     server_pool.py:127 starting server at [::]:2334
+2017-06-08 08:30:58 INFO     server_pool.py:153 starting server at 0.0.0.0:2334
+2017-06-08 08:31:17 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-08 08:45:57 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-06-08 08:45:57 INFO     tcprelay.py:1372 Total connections up to 50
+2017-06-08 08:48:07 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-06-08 09:21:22 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-08 09:21:22 INFO     tcprelay.py:1375 Total connections down to 0
+2017-06-08 11:05:24 ERROR    tcprelay.py:1091 unable to parse hostname b'pjvksdvxvw' when handling connection from ::ffff:180.139.197.159:51507
+2017-06-08 11:05:24 ERROR    tcprelay.py:1091 unable to parse hostname b'tchjghv' when handling connection from ::ffff:180.139.197.159:51522
+2017-06-08 11:05:24 ERROR    tcprelay.py:1091 unable to parse hostname b'jypumdncbgifh' when handling connection from ::ffff:180.139.197.159:51527
+2017-06-08 11:15:59 INFO     db_transfer.py:175 db stop server at port [2334] reason: port not exist
+2017-06-08 11:15:59 INFO     server_pool.py:184 stopped server at 0.0.0.0:2334 already stop
+2017-06-08 11:15:59 INFO     server_pool.py:202 stopped server at [b'::']:2334
+2017-06-08 11:16:01 INFO     tcprelay.py:1455 closed TCP port 2334
+2017-06-08 11:16:01 INFO     udprelay.py:638 closed UDP port 2334
+2017-06-08 11:16:47 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-08 11:25:14 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.197.159:52961
+2017-06-08 11:25:14 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.197.159:52964
+2017-06-08 11:31:03 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4370 via port 2333 by UID 2333
+2017-06-08 11:31:03 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53293
+2017-06-08 11:31:04 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4370 via port 2333 by UID 2333
+2017-06-08 11:31:04 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53312
+2017-06-08 11:31:04 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4371 via port 2333 by UID 2333
+2017-06-08 11:31:04 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53319
+2017-06-08 11:31:04 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4371 via port 2333 by UID 2333
+2017-06-08 11:31:04 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53323
+2017-06-08 11:31:07 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4372 via port 2333 by UID 2333
+2017-06-08 11:31:07 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53339
+2017-06-08 11:31:11 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4372 via port 2333 by UID 2333
+2017-06-08 11:31:11 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53362
+2017-06-08 11:31:11 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4373 via port 2333 by UID 2333
+2017-06-08 11:31:12 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53369
+2017-06-08 11:31:12 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4373 via port 2333 by UID 2333
+2017-06-08 11:31:12 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53376
+2017-06-08 11:31:12 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4374 via port 2333 by UID 2333
+2017-06-08 11:31:12 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53378
+2017-06-08 11:31:15 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4374 via port 2333 by UID 2333
+2017-06-08 11:31:15 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53404
+2017-06-08 11:31:16 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4375 via port 2333 by UID 2333
+2017-06-08 11:31:16 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53409
+2017-06-08 11:31:16 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4375 via port 2333 by UID 2333
+2017-06-08 11:31:16 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53415
+2017-06-08 11:31:17 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4376 via port 2333 by UID 2333
+2017-06-08 11:31:17 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53419
+2017-06-08 11:31:18 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4376 via port 2333 by UID 2333
+2017-06-08 11:31:18 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53425
+2017-06-08 11:31:18 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4377 via port 2333 by UID 2333
+2017-06-08 11:31:18 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53433
+2017-06-08 11:31:18 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4377 via port 2333 by UID 2333
+2017-06-08 11:31:18 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53435
+2017-06-08 11:31:18 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4378 via port 2333 by UID 2333
+2017-06-08 11:31:18 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53437
+2017-06-08 11:31:18 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4378 via port 2333 by UID 2333
+2017-06-08 11:31:18 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53441
+2017-06-08 11:31:18 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4379 via port 2333 by UID 2333
+2017-06-08 11:31:18 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53443
+2017-06-08 11:31:18 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to nmgceksoui.spotilocal.com:4379 via port 2333 by UID 2333
+2017-06-08 11:31:18 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:53445
+2017-06-08 11:48:39 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4370 via port 2333 by UID 2333
+2017-06-08 11:48:39 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54692
+2017-06-08 11:48:39 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4370 via port 2333 by UID 2333
+2017-06-08 11:48:39 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54713
+2017-06-08 11:48:39 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4371 via port 2333 by UID 2333
+2017-06-08 11:48:39 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54717
+2017-06-08 11:48:39 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4371 via port 2333 by UID 2333
+2017-06-08 11:48:39 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54727
+2017-06-08 11:48:40 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4372 via port 2333 by UID 2333
+2017-06-08 11:48:40 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54733
+2017-06-08 11:48:40 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4372 via port 2333 by UID 2333
+2017-06-08 11:48:40 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54735
+2017-06-08 11:48:40 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4373 via port 2333 by UID 2333
+2017-06-08 11:48:40 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54738
+2017-06-08 11:48:40 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4373 via port 2333 by UID 2333
+2017-06-08 11:48:40 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54740
+2017-06-08 11:48:40 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4374 via port 2333 by UID 2333
+2017-06-08 11:48:40 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54742
+2017-06-08 11:48:41 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4374 via port 2333 by UID 2333
+2017-06-08 11:48:41 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54744
+2017-06-08 11:48:41 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4375 via port 2333 by UID 2333
+2017-06-08 11:48:41 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54749
+2017-06-08 11:48:41 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4375 via port 2333 by UID 2333
+2017-06-08 11:48:41 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54751
+2017-06-08 11:48:41 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4376 via port 2333 by UID 2333
+2017-06-08 11:48:41 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54753
+2017-06-08 11:48:41 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4376 via port 2333 by UID 2333
+2017-06-08 11:48:41 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54758
+2017-06-08 11:48:41 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4377 via port 2333 by UID 2333
+2017-06-08 11:48:41 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54760
+2017-06-08 11:48:41 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4377 via port 2333 by UID 2333
+2017-06-08 11:48:41 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54762
+2017-06-08 11:48:42 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4378 via port 2333 by UID 2333
+2017-06-08 11:48:42 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54764
+2017-06-08 11:48:42 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4378 via port 2333 by UID 2333
+2017-06-08 11:48:42 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54768
+2017-06-08 11:48:42 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4379 via port 2333 by UID 2333
+2017-06-08 11:48:42 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54771
+2017-06-08 11:48:43 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to zzblycddta.spotilocal.com:4379 via port 2333 by UID 2333
+2017-06-08 11:48:43 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54775
+2017-06-08 11:48:54 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4370 via port 2333 by UID 2333
+2017-06-08 11:48:54 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54811
+2017-06-08 11:48:55 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4371 via port 2333 by UID 2333
+2017-06-08 11:48:55 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54825
+2017-06-08 11:48:57 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4371 via port 2333 by UID 2333
+2017-06-08 11:48:57 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54849
+2017-06-08 11:48:57 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4372 via port 2333 by UID 2333
+2017-06-08 11:48:57 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54859
+2017-06-08 11:48:57 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4372 via port 2333 by UID 2333
+2017-06-08 11:48:57 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54861
+2017-06-08 11:48:57 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4373 via port 2333 by UID 2333
+2017-06-08 11:48:57 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54863
+2017-06-08 11:48:57 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4373 via port 2333 by UID 2333
+2017-06-08 11:48:57 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54889
+2017-06-08 11:48:58 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4374 via port 2333 by UID 2333
+2017-06-08 11:48:58 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54891
+2017-06-08 11:48:58 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4374 via port 2333 by UID 2333
+2017-06-08 11:48:58 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54893
+2017-06-08 11:48:59 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4375 via port 2333 by UID 2333
+2017-06-08 11:48:59 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54905
+2017-06-08 11:48:59 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4375 via port 2333 by UID 2333
+2017-06-08 11:48:59 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54907
+2017-06-08 11:48:59 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4376 via port 2333 by UID 2333
+2017-06-08 11:48:59 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54909
+2017-06-08 11:48:59 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4376 via port 2333 by UID 2333
+2017-06-08 11:48:59 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54911
+2017-06-08 11:48:59 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4377 via port 2333 by UID 2333
+2017-06-08 11:48:59 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54913
+2017-06-08 11:48:59 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4377 via port 2333 by UID 2333
+2017-06-08 11:48:59 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54915
+2017-06-08 11:49:00 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4378 via port 2333 by UID 2333
+2017-06-08 11:49:00 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54917
+2017-06-08 11:49:00 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4378 via port 2333 by UID 2333
+2017-06-08 11:49:00 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54919
+2017-06-08 11:49:00 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4379 via port 2333 by UID 2333
+2017-06-08 11:49:00 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54921
+2017-06-08 11:49:01 ERROR    shell.py:50 IP 127.0.0.1 is in forbidden list, when connect to qgrvhvlhck.spotilocal.com:4379 via port 2333 by UID 2333
+2017-06-08 11:49:01 ERROR    tcprelay.py:810 exception from ::ffff:180.139.197.159:54925
+2017-06-08 12:09:55 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-08 12:17:14 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-08 12:40:06 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-08 12:44:26 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-08 12:44:53 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.197.159:58808
+2017-06-08 12:44:53 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.197.159:58811
+2017-06-08 12:46:36 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.197.159:58878
+2017-06-08 12:46:36 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.197.159:58880
+2017-06-08 12:46:43 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-08 12:48:23 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-08 12:48:23 ERROR    tcprelay.py:1091 unable to parse hostname b'ledbubc' when handling connection from ::ffff:180.139.197.159:59015
+2017-06-08 12:48:23 ERROR    tcprelay.py:1091 unable to parse hostname b'hbcrvxd' when handling connection from ::ffff:180.139.197.159:59016
+2017-06-08 12:48:24 ERROR    tcprelay.py:1091 unable to parse hostname b'avaaqpbxzep' when handling connection from ::ffff:180.139.197.159:59018
+2017-06-08 12:49:16 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-08 12:53:34 ERROR    tcprelay.py:1091 unable to parse hostname b'dudljyxufjlk' when handling connection from ::ffff:180.139.197.159:59259
+2017-06-08 12:53:34 ERROR    tcprelay.py:1091 unable to parse hostname b'iemvgwtynijxhha' when handling connection from ::ffff:180.139.197.159:59264
+2017-06-08 12:53:34 ERROR    tcprelay.py:1091 unable to parse hostname b'bhonygv' when handling connection from ::ffff:180.139.197.159:59255
+2017-06-08 14:25:22 ERROR    tcprelay.py:1091 unable to parse hostname b'lafmvexkur' when handling connection from ::ffff:180.139.197.159:62977
+2017-06-08 14:25:22 ERROR    tcprelay.py:1091 unable to parse hostname b'sjckkiwqj' when handling connection from ::ffff:180.139.197.159:62961
+2017-06-08 14:26:47 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-08 14:46:12 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-08 18:42:52 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-08 18:45:36 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 01:32:48 ERROR    tcprelay.py:1091 unable to parse hostname b'lisvdkobcgwqn' when handling connection from ::ffff:116.10.161.18:51208
+2017-06-09 01:32:48 ERROR    tcprelay.py:1091 unable to parse hostname b'oppwxpdzgaxeho' when handling connection from ::ffff:116.10.161.18:51209
+2017-06-09 01:32:48 ERROR    tcprelay.py:1091 unable to parse hostname b'opstwngxwlh' when handling connection from ::ffff:116.10.161.18:51210
+2017-06-09 01:33:12 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:116.10.161.18:51299
+2017-06-09 01:33:13 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:116.10.161.18:51301
+2017-06-09 01:44:04 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 01:54:05 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 01:56:00 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 02:02:15 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 02:21:03 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 02:31:48 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 02:41:14 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 02:48:11 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 03:05:48 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 03:23:37 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 12:15:59 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:15:59 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:21654
+2017-06-09 12:15:59 ERROR    shell.py:50 28
+2017-06-09 12:16:05 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:16:05 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:21690
+2017-06-09 12:16:05 ERROR    shell.py:50 33
+2017-06-09 12:16:16 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:16:16 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:21661
+2017-06-09 12:16:16 ERROR    shell.py:50 34
+2017-06-09 12:17:58 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:17:58 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:22035
+2017-06-09 12:17:58 ERROR    shell.py:50 44
+2017-06-09 12:17:59 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:17:59 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:22037
+2017-06-09 12:17:59 ERROR    shell.py:50 44
+2017-06-09 12:18:27 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 12:22:59 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:22:59 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:23425
+2017-06-09 12:22:59 ERROR    shell.py:50 8
+2017-06-09 12:23:00 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:23:00 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:23428
+2017-06-09 12:23:00 ERROR    shell.py:50 12
+2017-06-09 12:28:00 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:28:00 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:24585
+2017-06-09 12:28:00 ERROR    shell.py:50 16
+2017-06-09 12:28:01 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:28:01 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:24587
+2017-06-09 12:28:01 ERROR    shell.py:50 16
+2017-06-09 12:29:37 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:29:37 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:24885
+2017-06-09 12:29:37 ERROR    shell.py:50 19
+2017-06-09 12:33:01 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:33:01 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:25293
+2017-06-09 12:33:01 ERROR    shell.py:50 38
+2017-06-09 12:34:39 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-09 12:34:39 ERROR    tcprelay.py:810 exception from ::ffff:218.65.215.164:25546
+2017-06-09 12:34:39 ERROR    shell.py:50 7
+2017-06-09 12:40:36 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 12:53:14 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 13:01:37 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 15:00:45 ERROR    tcprelay.py:1091 unable to parse hostname b'jftgmxdtaatbq' when handling connection from ::ffff:180.139.198.64:56822
+2017-06-09 15:00:45 ERROR    tcprelay.py:1091 unable to parse hostname b'ztzcilehkzqmgdu' when handling connection from ::ffff:180.139.198.64:56831
+2017-06-09 15:00:46 ERROR    tcprelay.py:1091 unable to parse hostname b'iajvyau' when handling connection from ::ffff:180.139.198.64:56832
+2017-06-09 15:22:45 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 15:25:59 ERROR    shell.py:50 [Errno 32] Broken pipe
+2017-06-09 15:25:59 ERROR    tcprelay.py:394 exception from ::ffff:180.139.198.64:57473
+2017-06-09 15:40:11 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 16:02:44 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.198.64:63979
+2017-06-09 16:02:44 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.198.64:63983
+2017-06-09 16:05:04 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.198.64:64067
+2017-06-09 16:05:05 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.198.64:64069
+2017-06-09 16:43:16 ERROR    tcprelay.py:1091 unable to parse hostname b'hgejhmxa' when handling connection from ::ffff:180.139.198.64:65333
+2017-06-09 16:43:16 ERROR    tcprelay.py:1091 unable to parse hostname b'aybnrxtdwmhiw' when handling connection from ::ffff:180.139.198.64:65332
+2017-06-09 16:43:16 ERROR    tcprelay.py:1091 unable to parse hostname b'dsarriwsyvcxxpm' when handling connection from ::ffff:180.139.198.64:65340
+2017-06-09 16:43:20 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 17:16:47 ERROR    tcprelay.py:1091 unable to parse hostname b'ljjxbmqvvon' when handling connection from ::ffff:180.139.198.64:51660
+2017-06-09 17:16:47 ERROR    tcprelay.py:1091 unable to parse hostname b'cohpbkptvtxg' when handling connection from ::ffff:180.139.198.64:51659
+2017-06-09 17:16:47 ERROR    tcprelay.py:1091 unable to parse hostname b'qaqwnaxos' when handling connection from ::ffff:180.139.198.64:51656
+2017-06-09 17:20:46 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 17:36:07 ERROR    tcprelay.py:1091 unable to parse hostname b'yaxcjlqs' when handling connection from ::ffff:180.139.198.64:57593
+2017-06-09 17:36:07 ERROR    tcprelay.py:1091 unable to parse hostname b'mekoojp' when handling connection from ::ffff:180.139.198.64:57590
+2017-06-09 17:36:07 ERROR    tcprelay.py:1091 unable to parse hostname b'smwyanvkcgn' when handling connection from ::ffff:180.139.198.64:57591
+2017-06-09 17:40:37 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 17:40:40 ERROR    tcprelay.py:1091 unable to parse hostname b'poiqhkfkssvbkm' when handling connection from ::ffff:180.139.198.64:57812
+2017-06-09 17:40:40 ERROR    tcprelay.py:1091 unable to parse hostname b'whjicwuk' when handling connection from ::ffff:180.139.198.64:57811
+2017-06-09 17:40:40 ERROR    tcprelay.py:1091 unable to parse hostname b'yapnhfhid' when handling connection from ::ffff:180.139.198.64:57813
+2017-06-09 17:41:49 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-09 18:10:21 ERROR    tcprelay.py:1091 unable to parse hostname b'uojrhkhz' when handling connection from ::ffff:180.139.198.64:58357
+2017-06-09 18:10:21 ERROR    tcprelay.py:1091 unable to parse hostname b'hujrgjuh' when handling connection from ::ffff:180.139.198.64:58358
+2017-06-09 18:10:21 ERROR    tcprelay.py:1091 unable to parse hostname b'rcaawlk' when handling connection from ::ffff:180.139.198.64:58356
+2017-06-09 18:10:45 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-09 18:22:57 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-10 04:34:43 ERROR    tcprelay.py:1091 unable to parse hostname b'nbyscfr' when handling connection from ::ffff:113.15.15.142:7596
+2017-06-10 04:34:45 ERROR    tcprelay.py:1091 unable to parse hostname b'xhxppujfw' when handling connection from ::ffff:113.15.15.142:7811
+2017-06-10 04:34:47 ERROR    tcprelay.py:1091 unable to parse hostname b'rpxmvaqjshsrl' when handling connection from ::ffff:113.15.15.142:7606
+2017-06-11 09:12:58 ERROR    tcprelay.py:1091 unable to parse hostname b'gusevwepzpt' when handling connection from ::ffff:180.139.198.64:58782
+2017-06-11 09:12:58 ERROR    tcprelay.py:1091 unable to parse hostname b'fwuvgsfvatl' when handling connection from ::ffff:180.139.198.64:58799
+2017-06-11 09:13:00 ERROR    tcprelay.py:1091 unable to parse hostname b'tevkmruommabb' when handling connection from ::ffff:180.139.198.64:58803
+2017-06-11 09:25:35 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-11 09:48:12 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-06-11 09:48:12 ERROR    tcprelay.py:394 exception from ::ffff:180.139.198.64:62780
+2017-06-11 09:54:14 ERROR    shell.py:50 [Errno 32] Broken pipe
+2017-06-11 09:54:14 ERROR    tcprelay.py:394 exception from ::ffff:180.139.198.64:63150
+2017-06-11 10:14:05 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.198.64:64152
+2017-06-11 10:14:05 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.198.64:64155
+2017-06-11 10:14:08 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.198.64:64159
+2017-06-11 10:14:08 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.198.64:64174
+2017-06-11 10:14:10 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.198.64:64176
+2017-06-11 10:14:10 ERROR    tcprelay.py:1091 unable to parse hostname b'hystrix.byted.org' when handling connection from ::ffff:180.139.198.64:64182
+2017-06-11 10:20:47 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-12 11:25:14 ERROR    tcprelay.py:1091 unable to parse hostname b'data.test.cc' when handling connection from ::ffff:180.141.13.190:58547
+2017-06-12 11:25:16 ERROR    tcprelay.py:1091 unable to parse hostname b'data.test.cc' when handling connection from ::ffff:180.141.13.190:58557
+2017-06-12 13:07:55 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-12 14:55:54 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-12 15:23:05 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-12 15:26:16 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-12 23:38:11 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-12 23:49:08 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-12 23:53:41 ERROR    tcprelay.py:1091 unable to parse hostname b'badge.buboo.tw' when handling connection from ::ffff:180.141.13.190:56803
+2017-06-12 23:53:41 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-13 00:11:21 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-13 01:01:59 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-13 01:22:10 ERROR    tcprelay.py:1091 unable to parse hostname b'gubob.org' when handling connection from ::ffff:180.141.13.190:51369
+2017-06-13 01:22:10 ERROR    tcprelay.py:1091 unable to parse hostname b'gubob.org' when handling connection from ::ffff:180.141.13.190:51468
+2017-06-13 01:53:01 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-13 09:57:35 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.141.13.190:54355
+2017-06-13 14:54:32 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-13 15:15:05 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-13 15:34:39 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-13 15:48:02 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-13 15:48:02 ERROR    tcprelay.py:1035 remote error, when connect to tb.cn:443
+2017-06-13 15:50:05 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-13 15:50:05 ERROR    tcprelay.py:810 exception from ::ffff:180.141.13.190:55837
+2017-06-13 15:50:05 ERROR    shell.py:50 20
+2017-06-13 15:59:34 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-13 16:17:25 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-13 16:18:00 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-06-13 16:18:00 INFO     tcprelay.py:1372 Total connections up to 50
+2017-06-13 16:19:26 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-06-13 16:20:41 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-13 16:20:41 INFO     tcprelay.py:1375 Total connections down to 0
+2017-06-14 09:33:13 ERROR    shell.py:50 [Errno 32] Broken pipe
+2017-06-14 09:33:13 ERROR    tcprelay.py:394 exception from ::ffff:180.141.13.190:51609
+2017-06-14 09:33:18 ERROR    shell.py:50 [Errno 32] Broken pipe
+2017-06-14 09:33:18 ERROR    tcprelay.py:394 exception from ::ffff:180.141.13.190:51615
+2017-06-15 00:38:45 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:53758
+2017-06-15 00:38:47 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.bittorrent.am' when handling connection from ::ffff:180.141.13.190:53767
+2017-06-15 00:38:49 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:53937
+2017-06-15 00:38:49 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrenty.org' when handling connection from ::ffff:180.141.13.190:53923
+2017-06-15 00:38:49 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:53938
+2017-06-15 00:38:56 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:53968
+2017-06-15 00:38:56 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:53969
+2017-06-15 00:38:57 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:53977
+2017-06-15 00:38:57 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:53978
+2017-06-15 00:38:59 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:53986
+2017-06-15 00:38:59 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:53988
+2017-06-15 00:38:59 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:53982
+2017-06-15 00:38:59 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:53983
+2017-06-15 00:38:59 ERROR    tcprelay.py:1091 unable to parse hostname b'bigfoot1942.sektori.org' when handling connection from ::ffff:180.141.13.190:53990
+2017-06-15 00:39:00 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54007
+2017-06-15 00:39:00 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54010
+2017-06-15 00:39:01 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54030
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54062
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54060
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54064
+2017-06-15 00:39:02 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54079
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54081
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54071
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54091
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:54070
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:54080
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54093
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54092
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54094
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'eztv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54068
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.bittorrent.am' when handling connection from ::ffff:180.141.13.190:54097
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54095
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54096
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrenty.org' when handling connection from ::ffff:180.141.13.190:54098
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:54058
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:54061
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b't2.popgo.org' when handling connection from ::ffff:180.141.13.190:54078
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.blucd.org' when handling connection from ::ffff:180.141.13.190:54099
+2017-06-15 00:39:02 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.ninilu.xyz' when handling connection from ::ffff:180.141.13.190:54069
+2017-06-15 00:39:03 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54101
+2017-06-15 00:39:03 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54103
+2017-06-15 00:39:04 ERROR    tcprelay.py:1091 unable to parse hostname b'bigfoot1942.sektori.org' when handling connection from ::ffff:180.141.13.190:54228
+2017-06-15 00:39:04 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54229
+2017-06-15 00:39:04 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:54233
+2017-06-15 00:39:05 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54237
+2017-06-15 00:39:05 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54239
+2017-06-15 00:39:06 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.bittorrent.am' when handling connection from ::ffff:180.141.13.190:54241
+2017-06-15 00:39:06 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54243
+2017-06-15 00:39:06 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:54245
+2017-06-15 00:39:06 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.blucd.org' when handling connection from ::ffff:180.141.13.190:54247
+2017-06-15 00:39:06 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54249
+2017-06-15 00:39:07 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:07 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:08 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54275
+2017-06-15 00:39:08 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:54276
+2017-06-15 00:39:08 ERROR    tcprelay.py:1091 unable to parse hostname b't2.popgo.org' when handling connection from ::ffff:180.141.13.190:54279
+2017-06-15 00:39:09 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:54286
+2017-06-15 00:39:09 ERROR    tcprelay.py:1091 unable to parse hostname b'94.228.192.98.nyud.net' when handling connection from ::ffff:180.141.13.190:53985
+2017-06-15 00:39:09 ERROR    tcprelay.py:1091 unable to parse hostname b'eztv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54288
+2017-06-15 00:39:09 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54289
+2017-06-15 00:39:09 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.ninilu.xyz' when handling connection from ::ffff:180.141.13.190:54299
+2017-06-15 00:39:10 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54305
+2017-06-15 00:39:10 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54307
+2017-06-15 00:39:10 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54309
+2017-06-15 00:39:11 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54312
+2017-06-15 00:39:11 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54313
+2017-06-15 00:39:11 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54350
+2017-06-15 00:39:11 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54373
+2017-06-15 00:39:12 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54420
+2017-06-15 00:39:12 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54449
+2017-06-15 00:39:13 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:54459
+2017-06-15 00:39:13 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:13 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:13 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54463
+2017-06-15 00:39:14 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrenty.org' when handling connection from ::ffff:180.141.13.190:54467
+2017-06-15 00:39:14 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54473
+2017-06-15 00:39:15 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54475
+2017-06-15 00:39:16 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.bittorrent.am' when handling connection from ::ffff:180.141.13.190:54487
+2017-06-15 00:39:17 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54494
+2017-06-15 00:39:17 ERROR    tcprelay.py:1091 unable to parse hostname b'bigfoot1942.sektori.org' when handling connection from ::ffff:180.141.13.190:54495
+2017-06-15 00:39:17 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:17 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:17 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54504
+2017-06-15 00:39:17 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:54505
+2017-06-15 00:39:17 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54507
+2017-06-15 00:39:19 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.blucd.org' when handling connection from ::ffff:180.141.13.190:54511
+2017-06-15 00:39:19 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:19 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:19 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:19 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:19 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:54548
+2017-06-15 00:39:19 ERROR    tcprelay.py:1091 unable to parse hostname b'bc1.85851.com' when handling connection from ::ffff:180.141.13.190:54552
+2017-06-15 00:39:19 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:54566
+2017-06-15 00:39:19 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:19 ERROR    tcprelay.py:1035 remote error, when connect to 220.137.252.105:7873
+2017-06-15 00:39:19 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54581
+2017-06-15 00:39:19 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.ninilu.xyz' when handling connection from ::ffff:180.141.13.190:54590
+2017-06-15 00:39:19 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:19 ERROR    tcprelay.py:1035 remote error, when connect to 114.36.168.179:12888
+2017-06-15 00:39:20 ERROR    tcprelay.py:1091 unable to parse hostname b't2.popgo.org' when handling connection from ::ffff:180.141.13.190:54617
+2017-06-15 00:39:20 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54623
+2017-06-15 00:39:20 ERROR    tcprelay.py:1091 unable to parse hostname b'eztv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54624
+2017-06-15 00:39:23 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:23 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:25 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:25 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:26 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.blucd.org' when handling connection from ::ffff:180.141.13.190:54688
+2017-06-15 00:39:29 ERROR    tcprelay.py:1091 unable to parse hostname b'94.228.192.98.nyud.net' when handling connection from ::ffff:180.141.13.190:54675
+2017-06-15 00:39:29 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:29 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:30 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54840
+2017-06-15 00:39:31 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54842
+2017-06-15 00:39:31 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54844
+2017-06-15 00:39:31 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:31 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:31 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:31 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:31 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54854
+2017-06-15 00:39:31 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54859
+2017-06-15 00:39:32 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54862
+2017-06-15 00:39:32 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54865
+2017-06-15 00:39:33 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54866
+2017-06-15 00:39:33 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54868
+2017-06-15 00:39:33 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrenty.org' when handling connection from ::ffff:180.141.13.190:54880
+2017-06-15 00:39:34 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:54887
+2017-06-15 00:39:34 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:54889
+2017-06-15 00:39:35 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54897
+2017-06-15 00:39:35 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.bittorrent.am' when handling connection from ::ffff:180.141.13.190:54899
+2017-06-15 00:39:36 ERROR    tcprelay.py:1091 unable to parse hostname b'bigfoot1942.sektori.org' when handling connection from ::ffff:180.141.13.190:54903
+2017-06-15 00:39:37 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:54909
+2017-06-15 00:39:37 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:54911
+2017-06-15 00:39:37 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54915
+2017-06-15 00:39:37 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:54917
+2017-06-15 00:39:38 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.blucd.org' when handling connection from ::ffff:180.141.13.190:54919
+2017-06-15 00:39:39 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:54929
+2017-06-15 00:39:39 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:54975
+2017-06-15 00:39:40 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54978
+2017-06-15 00:39:40 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:54979
+2017-06-15 00:39:40 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:55008
+2017-06-15 00:39:40 ERROR    tcprelay.py:1091 unable to parse hostname b't2.popgo.org' when handling connection from ::ffff:180.141.13.190:55049
+2017-06-15 00:39:41 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.ninilu.xyz' when handling connection from ::ffff:180.141.13.190:55051
+2017-06-15 00:39:41 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:41 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:42 ERROR    tcprelay.py:1091 unable to parse hostname b'eztv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:55060
+2017-06-15 00:39:43 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:43 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:43 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:43 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:45 ERROR    tcprelay.py:1033 [Errno 113] No route to host
+2017-06-15 00:39:45 ERROR    tcprelay.py:1035 remote error, when connect to 123.240.122.207:25705
+2017-06-15 00:39:45 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-06-15 00:39:45 INFO     tcprelay.py:1372 Total connections up to 50
+2017-06-15 00:39:51 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:51 ERROR    tcprelay.py:1035 remote error, when connect to 114.36.168.179:12888
+2017-06-15 00:39:51 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:51 ERROR    tcprelay.py:1035 remote error, when connect to 220.137.252.105:7873
+2017-06-15 00:39:53 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:53 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:54 ERROR    tcprelay.py:1091 unable to parse hostname b'94.228.192.98.nyud.net' when handling connection from ::ffff:180.141.13.190:55118
+2017-06-15 00:39:55 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:55 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:39:56 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:39:56 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:01 ERROR    shell.py:50 server_decode data error
+2017-06-15 00:40:01 ERROR    tcprelay.py:861 exception from ::ffff:180.141.13.190:55320
+2017-06-15 00:40:02 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:55326
+2017-06-15 00:40:02 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:55325
+2017-06-15 00:40:03 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:55328
+2017-06-15 00:40:05 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:05 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:05 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:55428
+2017-06-15 00:40:05 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:55437
+2017-06-15 00:40:05 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:55444
+2017-06-15 00:40:05 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:55446
+2017-06-15 00:40:06 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:55457
+2017-06-15 00:40:06 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:55458
+2017-06-15 00:40:06 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:55460
+2017-06-15 00:40:07 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:07 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:08 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:55473
+2017-06-15 00:40:08 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:55472
+2017-06-15 00:40:08 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrenty.org' when handling connection from ::ffff:180.141.13.190:55476
+2017-06-15 00:40:08 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:55477
+2017-06-15 00:40:08 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:08 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:09 ERROR    tcprelay.py:1091 unable to parse hostname b'bigfoot1942.sektori.org' when handling connection from ::ffff:180.141.13.190:55487
+2017-06-15 00:40:09 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:55491
+2017-06-15 00:40:09 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.bittorrent.am' when handling connection from ::ffff:180.141.13.190:55490
+2017-06-15 00:40:12 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:55508
+2017-06-15 00:40:12 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:55509
+2017-06-15 00:40:12 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:55511
+2017-06-15 00:40:13 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:55520
+2017-06-15 00:40:13 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:55521
+2017-06-15 00:40:14 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:55526
+2017-06-15 00:40:14 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.blucd.org' when handling connection from ::ffff:180.141.13.190:55528
+2017-06-15 00:40:14 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:55530
+2017-06-15 00:40:14 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:55531
+2017-06-15 00:40:14 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:55533
+2017-06-15 00:40:16 ERROR    tcprelay.py:1091 unable to parse hostname b'eztv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:55546
+2017-06-15 00:40:17 ERROR    tcprelay.py:1091 unable to parse hostname b't2.popgo.org' when handling connection from ::ffff:180.141.13.190:55554
+2017-06-15 00:40:17 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:17 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:17 ERROR    tcprelay.py:1033 [Errno 113] No route to host
+2017-06-15 00:40:17 ERROR    tcprelay.py:1035 remote error, when connect to 123.240.122.207:25705
+2017-06-15 00:40:17 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.ninilu.xyz' when handling connection from ::ffff:180.141.13.190:55564
+2017-06-15 00:40:19 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:19 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:24 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:24 ERROR    tcprelay.py:1035 remote error, when connect to 220.137.252.105:7873
+2017-06-15 00:40:24 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:24 ERROR    tcprelay.py:1035 remote error, when connect to 114.36.168.179:12888
+2017-06-15 00:40:25 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:25 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:35 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:35 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:35 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:35 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:35 ERROR    tcprelay.py:1091 unable to parse hostname b'94.228.192.98.nyud.net' when handling connection from ::ffff:180.141.13.190:55711
+2017-06-15 00:40:43 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:43 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:51 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:51 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:51 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:51 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:40:51 ERROR    tcprelay.py:1033 [Errno 113] No route to host
+2017-06-15 00:40:51 ERROR    tcprelay.py:1035 remote error, when connect to 123.240.122.207:25705
+2017-06-15 00:40:53 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:55964
+2017-06-15 00:40:55 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:55 ERROR    tcprelay.py:1035 remote error, when connect to 220.137.252.105:7873
+2017-06-15 00:40:56 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:40:56 ERROR    tcprelay.py:1035 remote error, when connect to 114.36.168.179:12888
+2017-06-15 00:40:56 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:56007
+2017-06-15 00:40:56 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:56012
+2017-06-15 00:40:57 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:56027
+2017-06-15 00:40:57 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:56040
+2017-06-15 00:40:57 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:56084
+2017-06-15 00:40:58 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:56098
+2017-06-15 00:40:59 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:56108
+2017-06-15 00:40:59 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:56110
+2017-06-15 00:40:59 ERROR    tcprelay.py:1091 unable to parse hostname b'tpb.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:56113
+2017-06-15 00:41:00 ERROR    tcprelay.py:1091 unable to parse hostname b'bigfoot1942.sektori.org' when handling connection from ::ffff:180.141.13.190:56115
+2017-06-15 00:41:01 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:56122
+2017-06-15 00:41:01 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:01 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:41:01 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:56128
+2017-06-15 00:41:02 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrenty.org' when handling connection from ::ffff:180.141.13.190:56134
+2017-06-15 00:41:02 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:56135
+2017-06-15 00:41:03 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:56139
+2017-06-15 00:41:03 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.bittorrent.am' when handling connection from ::ffff:180.141.13.190:56141
+2017-06-15 00:41:03 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.torrent.to' when handling connection from ::ffff:180.141.13.190:56151
+2017-06-15 00:41:03 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:56153
+2017-06-15 00:41:04 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:56157
+2017-06-15 00:41:06 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:56161
+2017-06-15 00:41:06 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:56163
+2017-06-15 00:41:06 ERROR    tcprelay.py:1091 unable to parse hostname b'exodus.desync.com' when handling connection from ::ffff:180.141.13.190:56169
+2017-06-15 00:41:06 ERROR    tcprelay.py:1091 unable to parse hostname b'denis.stalker.h3q.com' when handling connection from ::ffff:180.141.13.190:56172
+2017-06-15 00:41:06 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.blucd.org' when handling connection from ::ffff:180.141.13.190:56175
+2017-06-15 00:41:07 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:07 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:41:07 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:07 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:41:07 ERROR    tcprelay.py:1091 unable to parse hostname b'tv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:56185
+2017-06-15 00:41:07 ERROR    tcprelay.py:1091 unable to parse hostname b't2.popgo.org' when handling connection from ::ffff:180.141.13.190:56189
+2017-06-15 00:41:08 ERROR    tcprelay.py:1091 unable to parse hostname b'eztv.tracker.prq.to' when handling connection from ::ffff:180.141.13.190:56190
+2017-06-15 00:41:08 ERROR    tcprelay.py:1091 unable to parse hostname b'tracker.ninilu.xyz' when handling connection from ::ffff:180.141.13.190:56192
+2017-06-15 00:41:09 ERROR    tcprelay.py:1091 unable to parse hostname b'potplayertv.xn--d-xhnaaaaaaaaaaaaaaa' when handling connection from ::ffff:180.141.13.190:56196
+2017-06-15 00:41:09 ERROR    tcprelay.py:1091 unable to parse hostname b'btfans.3322.org' when handling connection from ::ffff:180.141.13.190:56198
+2017-06-15 00:41:16 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:16 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:41:23 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:23 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:41:23 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:23 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:41:27 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:27 ERROR    tcprelay.py:1035 remote error, when connect to 114.36.168.179:12888
+2017-06-15 00:41:27 ERROR    tcprelay.py:1091 unable to parse hostname b'94.228.192.98.nyud.net' when handling connection from ::ffff:180.141.13.190:56340
+2017-06-15 00:41:28 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:28 ERROR    tcprelay.py:1035 remote error, when connect to 220.137.252.105:7873
+2017-06-15 00:41:35 ERROR    tcprelay.py:1033 [Errno 113] No route to host
+2017-06-15 00:41:35 ERROR    tcprelay.py:1035 remote error, when connect to 123.240.122.207:25705
+2017-06-15 00:41:39 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:39 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:41:45 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:45 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:41:45 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:45 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:41:54 ERROR    tcprelay.py:1033 [Errno 113] No route to host
+2017-06-15 00:41:54 ERROR    tcprelay.py:1035 remote error, when connect to 123.240.122.207:25705
+2017-06-15 00:41:59 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:41:59 ERROR    tcprelay.py:1035 remote error, when connect to 220.137.252.105:7873
+2017-06-15 00:42:00 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:42:00 ERROR    tcprelay.py:1035 remote error, when connect to 114.36.168.179:12888
+2017-06-15 00:42:01 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:42:01 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:42:06 ERROR    tcprelay.py:1091 unable to parse hostname b'a.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:56786
+2017-06-15 00:42:07 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:42:07 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:42:07 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-15 00:42:07 ERROR    tcprelay.py:1035 remote error, when connect to 45.77.25.166:14606
+2017-06-15 00:42:09 ERROR    tcprelay.py:1091 unable to parse hostname b'open.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:56803
+2017-06-15 00:42:09 ERROR    tcprelay.py:1091 unable to parse hostname b'vip.tracker.thepiratebay.org' when handling connection from ::ffff:180.141.13.190:56809
+2017-06-15 00:42:37 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-06-15 00:42:54 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-15 00:42:54 INFO     tcprelay.py:1375 Total connections down to 0
+2017-06-15 10:07:37 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-15 10:07:43 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-15 13:55:46 ERROR    tcprelay.py:1091 unable to parse hostname b'uqyfktqgwuw' when handling connection from ::ffff:180.141.15.241:50895
+2017-06-15 13:55:46 ERROR    tcprelay.py:1091 unable to parse hostname b'mfjuegzdsgmu' when handling connection from ::ffff:180.141.15.241:50902
+2017-06-15 13:55:46 ERROR    tcprelay.py:1091 unable to parse hostname b'ygvbvruoc' when handling connection from ::ffff:180.141.15.241:50901
+2017-06-15 13:58:33 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-15 14:10:12 ERROR    tcprelay.py:1091 unable to parse hostname b'cndydjwtfw' when handling connection from ::ffff:180.141.15.241:51609
+2017-06-15 14:10:12 ERROR    tcprelay.py:1091 unable to parse hostname b'hcaubbjknbkkx' when handling connection from ::ffff:180.141.15.241:51610
+2017-06-15 14:10:13 ERROR    tcprelay.py:1091 unable to parse hostname b'ajmyqlwdfsvw' when handling connection from ::ffff:180.141.15.241:51607
+2017-06-15 14:12:13 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-15 14:18:49 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-15 14:32:04 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-15 20:35:26 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.141.15.241:61396
+2017-06-15 20:35:54 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-15 20:38:27 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-15 20:39:41 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.141.15.241:61734
+2017-06-15 20:47:17 ERROR    shell.py:50 [Errno 32] Broken pipe
+2017-06-15 20:47:17 ERROR    tcprelay.py:394 exception from ::ffff:180.141.15.241:62222
+2017-06-15 23:49:48 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-15 23:49:49 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-06-15 23:49:49 INFO     tcprelay.py:1372 Total connections up to 50
+2017-06-15 23:49:49 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-06-15 23:54:26 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-15 23:54:26 INFO     tcprelay.py:1375 Total connections down to 0
+2017-06-16 01:09:32 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-16 01:09:34 ERROR    tcprelay.py:1091 unable to parse hostname b'rseikzdidpam' when handling connection from ::ffff:116.10.161.18:52222
+2017-06-16 01:09:34 ERROR    tcprelay.py:1091 unable to parse hostname b'jgagnuqelrm' when handling connection from ::ffff:116.10.161.18:52220
+2017-06-16 01:09:34 ERROR    tcprelay.py:1091 unable to parse hostname b'wcmbxtrd' when handling connection from ::ffff:116.10.161.18:52221
+2017-06-16 01:26:56 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-16 01:40:20 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-16 01:41:36 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 01:41:36 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:54953
+2017-06-16 01:41:36 ERROR    shell.py:50 41
+2017-06-16 01:43:56 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 01:43:56 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:56993
+2017-06-16 01:43:56 ERROR    shell.py:50 11
+2017-06-16 01:46:37 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 01:46:37 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:58366
+2017-06-16 01:46:37 ERROR    shell.py:50 16
+2017-06-16 01:48:57 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 01:48:57 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:59627
+2017-06-16 01:48:57 ERROR    shell.py:50 22
+2017-06-16 01:51:38 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 01:51:38 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:60567
+2017-06-16 01:51:38 ERROR    shell.py:50 11
+2017-06-16 01:53:58 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 01:53:58 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:61019
+2017-06-16 01:53:58 ERROR    shell.py:50 15
+2017-06-16 01:56:39 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 01:56:39 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:61778
+2017-06-16 01:56:39 ERROR    shell.py:50 11
+2017-06-16 01:58:59 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 01:58:59 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:61900
+2017-06-16 01:58:59 ERROR    shell.py:50 62
+2017-06-16 02:01:40 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:01:40 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:62062
+2017-06-16 02:01:40 ERROR    shell.py:50 18
+2017-06-16 02:04:00 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:04:00 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:62095
+2017-06-16 02:04:00 ERROR    shell.py:50 12
+2017-06-16 02:06:41 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:06:41 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:62625
+2017-06-16 02:06:41 ERROR    shell.py:50 18
+2017-06-16 02:09:01 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:09:01 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:63268
+2017-06-16 02:09:01 ERROR    shell.py:50 20
+2017-06-16 02:11:43 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:11:43 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:64152
+2017-06-16 02:11:43 ERROR    shell.py:50 11
+2017-06-16 02:14:02 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:14:02 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:64768
+2017-06-16 02:14:02 ERROR    shell.py:50 11
+2017-06-16 02:16:43 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:16:43 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:65473
+2017-06-16 02:16:43 ERROR    shell.py:50 18
+2017-06-16 02:19:03 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:19:03 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:49715
+2017-06-16 02:19:03 ERROR    shell.py:50 11
+2017-06-16 02:21:44 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:21:44 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50391
+2017-06-16 02:21:44 ERROR    shell.py:50 18
+2017-06-16 02:24:04 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:24:04 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:51014
+2017-06-16 02:24:04 ERROR    shell.py:50 15
+2017-06-16 02:26:44 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:26:44 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:52094
+2017-06-16 02:26:44 ERROR    shell.py:50 15
+2017-06-16 02:29:05 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:29:05 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:52736
+2017-06-16 02:29:05 ERROR    shell.py:50 10
+2017-06-16 02:31:46 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:31:46 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:53472
+2017-06-16 02:31:46 ERROR    shell.py:50 11
+2017-06-16 02:34:06 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:34:06 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:53762
+2017-06-16 02:34:06 ERROR    shell.py:50 11
+2017-06-16 02:36:47 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:36:47 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:54255
+2017-06-16 02:36:47 ERROR    shell.py:50 13
+2017-06-16 02:39:08 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:39:08 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:54845
+2017-06-16 02:39:08 ERROR    shell.py:50 11
+2017-06-16 02:41:48 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:41:48 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:55523
+2017-06-16 02:41:48 ERROR    shell.py:50 11
+2017-06-16 02:42:12 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:42:12 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:55628
+2017-06-16 02:42:12 ERROR    shell.py:50 13
+2017-06-16 02:46:49 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:46:49 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:56442
+2017-06-16 02:46:49 ERROR    shell.py:50 13
+2017-06-16 02:47:12 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:47:12 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:56492
+2017-06-16 02:47:12 ERROR    shell.py:50 18
+2017-06-16 02:51:50 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:51:50 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:57680
+2017-06-16 02:51:50 ERROR    shell.py:50 10
+2017-06-16 02:52:14 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:52:14 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:57776
+2017-06-16 02:52:14 ERROR    shell.py:50 10
+2017-06-16 02:56:52 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:56:52 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:59344
+2017-06-16 02:56:52 ERROR    shell.py:50 19
+2017-06-16 02:57:14 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 02:57:14 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:59474
+2017-06-16 02:57:14 ERROR    shell.py:50 13
+2017-06-16 03:01:52 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:01:52 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:60728
+2017-06-16 03:01:52 ERROR    shell.py:50 18
+2017-06-16 03:02:15 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:02:15 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:60824
+2017-06-16 03:02:15 ERROR    shell.py:50 11
+2017-06-16 03:06:53 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:06:53 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:62045
+2017-06-16 03:06:53 ERROR    shell.py:50 13
+2017-06-16 03:07:16 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:07:16 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:62255
+2017-06-16 03:07:16 ERROR    shell.py:50 13
+2017-06-16 03:11:54 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:11:54 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:63504
+2017-06-16 03:11:54 ERROR    shell.py:50 11
+2017-06-16 03:12:18 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:12:18 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:63611
+2017-06-16 03:12:18 ERROR    shell.py:50 13
+2017-06-16 03:16:55 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:16:55 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:65276
+2017-06-16 03:16:55 ERROR    shell.py:50 13
+2017-06-16 03:17:19 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:17:19 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:65384
+2017-06-16 03:17:19 ERROR    shell.py:50 13
+2017-06-16 03:21:56 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:21:56 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:49821
+2017-06-16 03:21:56 ERROR    shell.py:50 20
+2017-06-16 03:22:20 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:22:20 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:49869
+2017-06-16 03:22:20 ERROR    shell.py:50 22
+2017-06-16 03:26:57 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:26:57 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50786
+2017-06-16 03:26:57 ERROR    shell.py:50 16
+2017-06-16 03:27:22 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:27:22 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50844
+2017-06-16 03:27:22 ERROR    shell.py:50 12
+2017-06-16 03:32:03 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:32:03 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:51430
+2017-06-16 03:32:03 ERROR    shell.py:50 22
+2017-06-16 03:32:37 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:32:37 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:51452
+2017-06-16 03:32:37 ERROR    shell.py:50 12
+2017-06-16 03:34:39 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:34:39 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:51687
+2017-06-16 03:34:39 ERROR    shell.py:50 18
+2017-06-16 03:37:23 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:37:23 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:51894
+2017-06-16 03:37:23 ERROR    shell.py:50 12
+2017-06-16 03:37:55 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:37:55 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:51991
+2017-06-16 03:37:55 ERROR    shell.py:50 15
+2017-06-16 03:39:41 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:39:41 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:52170
+2017-06-16 03:39:41 ERROR    shell.py:50 14
+2017-06-16 03:42:53 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:42:53 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:52925
+2017-06-16 03:42:53 ERROR    shell.py:50 14
+2017-06-16 03:44:42 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:44:42 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:52984
+2017-06-16 03:44:42 ERROR    shell.py:50 16
+2017-06-16 03:47:55 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:47:55 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:53957
+2017-06-16 03:47:55 ERROR    shell.py:50 14
+2017-06-16 03:49:41 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:49:41 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:54038
+2017-06-16 03:49:41 ERROR    shell.py:50 16
+2017-06-16 03:51:55 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:51:55 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:54894
+2017-06-16 03:51:55 ERROR    shell.py:50 16
+2017-06-16 03:52:57 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:52:57 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:55790
+2017-06-16 03:52:57 ERROR    shell.py:50 24
+2017-06-16 03:54:42 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:54:42 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:56856
+2017-06-16 03:54:42 ERROR    shell.py:50 12
+2017-06-16 03:57:57 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:57:57 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:57961
+2017-06-16 03:57:57 ERROR    shell.py:50 13
+2017-06-16 03:59:44 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 03:59:44 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:58724
+2017-06-16 03:59:44 ERROR    shell.py:50 19
+2017-06-16 04:03:03 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:03:03 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:59332
+2017-06-16 04:03:03 ERROR    shell.py:50 8
+2017-06-16 04:04:49 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:04:49 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:59363
+2017-06-16 04:04:49 ERROR    shell.py:50 10
+2017-06-16 04:07:44 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:07:44 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:59673
+2017-06-16 04:07:44 ERROR    shell.py:50 10
+2017-06-16 04:08:00 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:08:00 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:59708
+2017-06-16 04:08:00 ERROR    shell.py:50 10
+2017-06-16 04:09:46 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:09:46 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:60307
+2017-06-16 04:09:46 ERROR    shell.py:50 28
+2017-06-16 04:13:00 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:13:00 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:61312
+2017-06-16 04:13:00 ERROR    shell.py:50 12
+2017-06-16 04:14:47 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:14:47 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:62264
+2017-06-16 04:14:47 ERROR    shell.py:50 16
+2017-06-16 04:18:01 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:18:01 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:62534
+2017-06-16 04:18:01 ERROR    shell.py:50 12
+2017-06-16 04:19:47 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:19:47 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:62740
+2017-06-16 04:19:47 ERROR    shell.py:50 12
+2017-06-16 04:23:02 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:23:02 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:64554
+2017-06-16 04:23:02 ERROR    shell.py:50 16
+2017-06-16 04:24:52 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:24:52 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:65083
+2017-06-16 04:24:52 ERROR    shell.py:50 8
+2017-06-16 04:26:24 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:26:24 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:49352
+2017-06-16 04:26:24 ERROR    shell.py:50 16
+2017-06-16 04:28:05 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:28:05 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:49737
+2017-06-16 04:28:05 ERROR    shell.py:50 10
+2017-06-16 04:31:25 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:31:25 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50101
+2017-06-16 04:31:25 ERROR    shell.py:50 8
+2017-06-16 04:33:04 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:33:04 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50125
+2017-06-16 04:33:04 ERROR    shell.py:50 10
+2017-06-16 04:36:26 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:36:26 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50173
+2017-06-16 04:36:26 ERROR    shell.py:50 10
+2017-06-16 04:38:04 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:38:04 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50197
+2017-06-16 04:38:04 ERROR    shell.py:50 16
+2017-06-16 04:41:27 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:41:27 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50264
+2017-06-16 04:41:27 ERROR    shell.py:50 16
+2017-06-16 04:43:05 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:43:05 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50285
+2017-06-16 04:43:05 ERROR    shell.py:50 10
+2017-06-16 04:46:28 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:46:28 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50324
+2017-06-16 04:46:28 ERROR    shell.py:50 10
+2017-06-16 04:48:07 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:48:07 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50474
+2017-06-16 04:48:07 ERROR    shell.py:50 16
+2017-06-16 04:51:29 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:51:29 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:50929
+2017-06-16 04:51:29 ERROR    shell.py:50 10
+2017-06-16 04:53:07 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:53:07 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:51069
+2017-06-16 04:53:07 ERROR    shell.py:50 12
+2017-06-16 04:56:30 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-16 04:56:30 ERROR    tcprelay.py:810 exception from ::ffff:116.10.161.18:51617
+2017-06-16 04:56:30 ERROR    shell.py:50 10
+2017-06-16 04:58:48 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-16 06:21:09 ERROR    shell.py:50 [Errno 32] Broken pipe
+2017-06-16 06:21:09 ERROR    tcprelay.py:394 exception from ::ffff:116.10.161.18:52574
+2017-06-16 07:03:33 ERROR    tcprelay.py:1091 unable to parse hostname b'howodviw' when handling connection from ::ffff:180.141.15.241:52867
+2017-06-16 07:03:33 ERROR    tcprelay.py:1091 unable to parse hostname b'xgtfdrcykjbtor' when handling connection from ::ffff:180.141.15.241:52865
+2017-06-16 07:03:34 ERROR    tcprelay.py:1091 unable to parse hostname b'pnwexcjkf' when handling connection from ::ffff:180.141.15.241:52866
+2017-06-16 12:10:02 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-16 13:02:10 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-16 13:08:06 ERROR    shell.py:50 [Errno 32] Broken pipe
+2017-06-16 13:08:06 ERROR    tcprelay.py:394 exception from ::ffff:180.141.15.241:60353
+2017-06-16 13:38:56 ERROR    tcprelay.py:1091 unable to parse hostname b'sidpnwvamqv' when handling connection from ::ffff:180.141.15.241:63510
+2017-06-16 13:38:56 ERROR    tcprelay.py:1091 unable to parse hostname b'wtwvdrmvppxhdoc' when handling connection from ::ffff:180.141.15.241:63511
+2017-06-16 13:38:56 ERROR    tcprelay.py:1091 unable to parse hostname b'gdxxxihxt' when handling connection from ::ffff:180.141.15.241:63512
+2017-06-16 13:39:07 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-16 13:48:33 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-16 19:15:17 ERROR    tcprelay.py:1091 unable to parse hostname b'rbhhaxrjxc' when handling connection from ::ffff:180.141.15.241:49539
+2017-06-16 19:15:17 ERROR    tcprelay.py:1091 unable to parse hostname b'kuwrsooufuexlwa' when handling connection from ::ffff:180.141.15.241:49536
+2017-06-16 19:15:17 ERROR    tcprelay.py:1091 unable to parse hostname b'swsmbmg' when handling connection from ::ffff:180.141.15.241:49538
+2017-06-16 19:15:18 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-16 19:28:07 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-16 19:49:20 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-16 19:49:20 ERROR    tcprelay.py:1091 unable to parse hostname b'uescunmqyqxqnf' when handling connection from ::ffff:180.141.15.241:53566
+2017-06-16 19:49:20 ERROR    tcprelay.py:1091 unable to parse hostname b'kyktmqxbbjes' when handling connection from ::ffff:180.141.15.241:53567
+2017-06-16 19:49:20 ERROR    tcprelay.py:1091 unable to parse hostname b'eezrxwpvjfypru' when handling connection from ::ffff:180.141.15.241:53565
+2017-06-16 19:51:42 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-17 03:34:25 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-17 03:34:26 ERROR    tcprelay.py:1091 unable to parse hostname b'eqlybjt' when handling connection from ::ffff:180.141.15.241:50403
+2017-06-17 03:34:26 ERROR    tcprelay.py:1091 unable to parse hostname b'erbvamasu' when handling connection from ::ffff:180.141.15.241:50404
+2017-06-17 03:54:29 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-17 04:07:06 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-17 04:35:53 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-17 08:23:16 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-17 08:25:32 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-18 04:55:47 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-18 04:56:00 ERROR    tcprelay.py:1091 unable to parse hostname b'downloads.4kdownload.com' when handling connection from ::ffff:180.141.15.241:50093
+2017-06-18 04:58:56 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-18 11:30:09 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-18 12:04:08 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-18 12:47:21 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-18 12:53:33 ERROR    shell.py:50 [Errno 32] Broken pipe
+2017-06-18 12:53:33 ERROR    tcprelay.py:394 exception from ::ffff:58.59.214.101:35276
+2017-06-18 12:54:52 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-18 14:08:49 ERROR    tcprelay.py:1091 unable to parse hostname b'downloads.4kdownload.com' when handling connection from ::ffff:58.59.214.101:36807
+2017-06-18 14:15:50 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-18 14:16:45 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-06-18 14:16:45 INFO     tcprelay.py:1372 Total connections up to 50
+2017-06-18 14:18:20 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-06-18 14:22:40 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-18 14:22:40 INFO     tcprelay.py:1375 Total connections down to 0
+2017-06-18 18:52:41 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:58.59.214.101:34565
+2017-06-18 18:52:55 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-18 18:58:52 ERROR    shell.py:50 [Errno 32] Broken pipe
+2017-06-18 18:58:52 ERROR    tcprelay.py:394 exception from ::ffff:58.59.214.101:34968
+2017-06-18 19:09:16 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-19 01:13:02 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.136.250.71:50275
+2017-06-19 01:13:17 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-19 01:13:27 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.136.250.71:50312
+2017-06-19 01:13:53 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.136.250.71:50346
+2017-06-19 01:13:55 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.136.250.71:50353
+2017-06-19 01:15:55 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.136.250.71:50435
+2017-06-19 01:16:55 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.136.250.71:50511
+2017-06-19 01:17:23 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.136.250.71:50556
+2017-06-19 01:17:31 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-19 02:26:14 ERROR    tcprelay.py:1091 unable to parse hostname b'downloads.4kdownload.com' when handling connection from ::ffff:171.110.243.209:30765
+2017-06-19 02:54:20 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-19 02:54:23 ERROR    tcprelay.py:1091 unable to parse hostname b'gmobawqxewlaave' when handling connection from ::ffff:180.136.250.71:50522
+2017-06-19 02:54:23 ERROR    tcprelay.py:1091 unable to parse hostname b'rzrtfcrz' when handling connection from ::ffff:180.136.250.71:50523
+2017-06-19 02:54:23 ERROR    tcprelay.py:1091 unable to parse hostname b'vaiwvokkf' when handling connection from ::ffff:180.136.250.71:50524
+2017-06-19 02:57:47 ERROR    tcprelay.py:1091 unable to parse hostname b'tbjzqthgszl' when handling connection from ::ffff:180.136.250.71:50838
+2017-06-19 02:57:47 ERROR    tcprelay.py:1091 unable to parse hostname b'eitpjwftm' when handling connection from ::ffff:180.136.250.71:50835
+2017-06-19 02:57:48 ERROR    tcprelay.py:1091 unable to parse hostname b'ncuwjqtg' when handling connection from ::ffff:180.136.250.71:50837
+2017-06-19 03:27:52 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-19 03:27:52 ERROR    tcprelay.py:810 exception from ::ffff:180.136.250.71:52635
+2017-06-19 03:27:52 ERROR    shell.py:50 11
+2017-06-19 03:27:52 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-19 03:27:52 ERROR    tcprelay.py:810 exception from ::ffff:180.136.250.71:52631
+2017-06-19 03:27:52 ERROR    shell.py:50 11
+2017-06-19 03:29:03 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-19 20:37:57 ERROR    tcprelay.py:1091 unable to parse hostname b'gopmlfmyrtbn' when handling connection from ::ffff:180.138.184.89:45698
+2017-06-19 20:37:57 ERROR    tcprelay.py:1091 unable to parse hostname b'bojwokd' when handling connection from ::ffff:180.138.184.89:46033
+2017-06-19 20:37:57 ERROR    tcprelay.py:1091 unable to parse hostname b'siaodtqdu' when handling connection from ::ffff:180.138.184.89:45800
+2017-06-19 20:40:07 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-19 20:54:52 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-19 21:42:19 ERROR    tcprelay.py:1091 unable to parse hostname b'zqiislgmezilf' when handling connection from ::ffff:180.138.184.89:45717
+2017-06-19 21:42:19 ERROR    tcprelay.py:1091 unable to parse hostname b'jnffrrac' when handling connection from ::ffff:180.138.184.89:46100
+2017-06-19 21:42:20 ERROR    tcprelay.py:1091 unable to parse hostname b'eynvjyimlibzgp' when handling connection from ::ffff:180.138.184.89:45732
+2017-06-19 21:49:03 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-19 21:56:58 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-19 22:02:31 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-19 22:07:05 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-20 01:10:01 ERROR    tcprelay.py:1091 unable to parse hostname b'gblxsulvyxkyez' when handling connection from ::ffff:180.136.250.71:51718
+2017-06-20 01:10:01 ERROR    tcprelay.py:1091 unable to parse hostname b'baspvbga' when handling connection from ::ffff:180.136.250.71:51719
+2017-06-20 01:10:01 ERROR    tcprelay.py:1091 unable to parse hostname b'boctswzoaacrvq' when handling connection from ::ffff:180.136.250.71:51720
+2017-06-20 01:10:39 ERROR    tcprelay.py:1091 unable to parse hostname b'mleawwlznwvidk' when handling connection from ::ffff:180.136.250.71:51846
+2017-06-20 01:10:39 ERROR    tcprelay.py:1091 unable to parse hostname b'gumupkyg' when handling connection from ::ffff:180.136.250.71:51837
+2017-06-20 01:10:39 ERROR    tcprelay.py:1091 unable to parse hostname b'wdzyxmilv' when handling connection from ::ffff:180.136.250.71:51845
+2017-06-20 17:26:00 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-20 17:28:39 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-20 17:30:13 ERROR    tcprelay.py:1091 unable to parse hostname b'downloads.4kdownload.com' when handling connection from ::ffff:180.141.13.186:60038
+2017-06-21 02:25:59 INFO     obfs_tls.py:266 tls_auth wrong tls version
+2017-06-21 02:25:59 WARNING  common.py:238 unsupported addrtype 69, maybe wrong password or encryption method
+2017-06-21 02:25:59 WARNING  tcprelay.py:519 Protocol ERROR, TCP ogn data b'16030100520100004e03015949d9373f86950069097f0f69d62e56ac5e68643f7db75b55eced4b2d91f65400002600390038003500160013000a00330032002f0005000400150012000900140011000800060003020100' from ::ffff:125.46.131.25:62447 via port 2333 by UID 2333
+2017-06-21 02:25:59 ERROR    tcprelay.py:1091 can not parse header when handling connection from ::ffff:125.46.131.25:62447
+2017-06-21 02:25:59 WARNING  common.py:238 unsupported addrtype 69, maybe wrong password or encryption method
+2017-06-21 02:25:59 WARNING  tcprelay.py:519 Protocol ERROR, TCP ogn data b'17030303bbf270259de6ada2c89a10753a72c908ea1f6c04c7a2f5cc12ac2721ff3a6e7f8eb91936f8df021dcdc04f6a3c6b82179a55ea8bcc6655436630fe59955a10623e5bd8abe94b269286502d277f5a02ede6863dc519e3a08e1e775fa2eeb09a36a284f6bbf92626dd2eb07905a0f43df2a733ccd6b2a14a66e0318f60def1fc1a0a68ac3c37c32c8e0440c1d9b330d711e59663a31ef0f29a504d677580be6367cab1a16b8482c371945248c9493a157ee4bc4eba23df763fe924136b57aaf03152d4b512ee3b5a8b3af15f349fbc34ae91e248c7b98bbca66a4f54484e88ca5426741df700f1d71716b9400d1adcb812c51fa901ee7b3f2235dd1ebbfde305f61f199eaa0915a1ec92b9a46ebdd13a689fcea7476d4a310be727a3a6e34df63d10b0087220131a78bbd884f14a5c3ed103a3738bcc1bfd19d60e64809fe028d6cc9a425849b950ed70dda21f6da0a1b30ede2cf8c6cdadf2e52529f6c93aa7032429589edfafd18fe70fafa13a40d745f892d5af4ef829615b2267f8c81426270d74f869c5b12bb21e7f8d7cdcc14e56a323367c9f5297252bed0143dd763507a58c09626d64da514fe684ab1d3da79c2d4e75c06353108bec64ce31283e1f57f9c8af6f4fdfe04f67dd1dc4fadb7cd9006109d18cada11391b285eb6f384d67ec61c56b8ab39addb5185ea445879a8b27c86e6141e350f795e346b4450ac490fc83b6f2620700fba718d5536ba0b927e54c25fbf37644ea5910f15e1ea59eb466ad8e66308984ee23b3971873b9e52a4b7b7fb6dd63340145f76516ac15dfa418a50dbe2c2b1e02342274e185eabccd76b308c0d518644c3fe3416c1cab523afe87b8d02216bd52b5fc7ac8ae6b40a691d2db63c401ec08e8e1d9733f27d9939d4da6e7ea52dfdedc1ce79ab792b609d305c2048f1634ea68f5fdd6f66ed7cb94aedbd257f93cf095714e12f32798db545a2ca2ecd9832030863f88900393c43a20b6523a462e32de9d3466e47ce80140f2c6a815a30c483e461e64dbd36f041864cc63dd64ba329f27b7b5fe8d961827e3fca0ba98b3b9ad74fc1306586ea592b340c5be31156802122f6ab19aafc76b90d8222ee0b5d62aa35c2d258f4c1e2bc9c8d07fb407636af404924ef634b2691896af7690c4acaf3cbdd1752ab4fbf9ce36dbf9a33d1d0640d3e06c82910aabdfdfccb5dc0458f896847c06c50b4cf75fb156baeb149b1a2cd321c0450d8e22703a10700339e79dec8b762a8e0bb36a44e18fc550623c4300ffd58ab2044fdf740eebec64579aef6e291db142d80b694bdfc9f8deead9454a3a5641d026a878e04e4b6316ddc6401cdd2b' from ::ffff:183.185.110.247:32735 via port 2333 by UID 2333
+2017-06-21 02:25:59 ERROR    tcprelay.py:1091 can not parse header when handling connection from ::ffff:183.185.110.247:32735
+2017-06-21 03:04:20 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-21 03:19:48 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-21 03:22:48 WARNING  common.py:238 unsupported addrtype 69, maybe wrong password or encryption method
+2017-06-21 03:22:48 WARNING  tcprelay.py:519 Protocol ERROR, TCP ogn data b'17030303fb9b2d2520356ec8dc36ce6b123cdb3a8795b7b093e506bede1ebcb713ab46bc87cfb30b6404acd5514d9dd3b200106fe3d43f584b95aa4b070d778c1c8388dced673d5298a65d3985561c194ac205d7d8e25d87fa472fcde5f86235f0c7a462caefdd4a3954a20f08e3117d1d35a87ef1c10e53918ca1e279551c649b0241ba754c7f3bd0e7d72a40399e69d0c4e2387299bd9fdf347cb6b9c0751a64ec87e2f3fc86dfab752da68eeb56fa48ea185df14fcefdebbcc4ae5e11d5d01168d93a2cddb52a016f2d548b0b4a53dd91349fd93b227afe1140b80d9446c23c02d11b76f5875a3feedfa131098040fdd7d2ffe592e649a077d6423ecdb2134b674dd234fe491d40b9e532234b10c791c4d4b90002030448c2a1d826336e27c5dba6e326c538b76426cf5a0b2d190862f81e5d1df286ba7d8f567e44305d65e555f6cd29fe158d5c29ed11ea9881e972b5fd844fa5bf3e1380837d65e7be2badda0221efe1a39b0620049e24b729fd9e10a4ff2820d93fd4c3ef8fdad8a005533dbe197e61cb040b39cce873ce74ab1a9b65ff697c16d0a6abae181a708e655220264ee4675994ef5ba9353aa6032b76631c563120215660087035bff59432cf91dcec62fab50a9f67d839b3cdd997ee78c7b0757db1c1794222f0f22cbddde5edb80b6cb95c79e09167053762ec472718c9f76e0b6982c5bac941b8eccfd76e9fb66f27d8304671deebfd60bedc2ba5c411f15ed9a6f81f22f7e4401adcbf06b655e01e03d13b16b1fe10ede57c38b22c270da281aa5622b1c67e3da94699e02ce169977052112a62a3b767db2a15060eb04c90874a8d0fcd2d20090be2d372db1ad6caa5db43f0774aeae1a42dd1b5dc5c74559cd0749ce955630c291709a0033826eac5551b177eb330382993e08426c85a3beea1d8e5c54bab61b4d8535ee3f381f3cd719391b07b9c0ed1b2b53e7738e480945933c2eb7bcb31c1c68e41909a7e1c893fcec34af65f49c95474e257e2d5fc95f209d69f06b9e6649b3ec6aa6fe67deaf31d4427673945c2f58966247eee9a69f469002a1c1bb9065faad4da3294266d57bc2d2383d28fce12e1fb0c4b58bbc3dbcf569a42a86dc13038cd1370c2beb233b0fe320896024589c7cc783907c3d3f89a3ddd116ae3e3f3ba962d98a2ade490d991a9b7b5e78a186d03b1d44aa014f2b8d3954b49dce053ea58e2906aee14d7e91680e4acaad9a70b74894a533d089d16d198e0d30966a94a1617c8615a8b5abd0ab9b7b2eaf41b2d70eb5ffa6e5af6c21945dabe03f71103d317f07b62a8558bea218c7a22a2afb31eca582bec26d7742cea36ca99c49d998279a7105d852836fccd4cbeffc3c953fd1231ad25f6beb8892bb1a253a37c46544afadc594c5dd5fd94c04df8f2d3496277f77942e902982d42e5b029d17e17' from ::ffff:111.85.179.163:21622 via port 2333 by UID 2333
+2017-06-21 03:22:48 ERROR    tcprelay.py:1091 can not parse header when handling connection from ::ffff:111.85.179.163:21622
+2017-06-21 03:22:48 INFO     obfs_tls.py:266 tls_auth wrong tls version
+2017-06-21 03:22:48 WARNING  common.py:238 unsupported addrtype 69, maybe wrong password or encryption method
+2017-06-21 03:22:48 WARNING  tcprelay.py:519 Protocol ERROR, TCP ogn data b'16030100520100004e03015949e68829a962098681a58372b3cbb23b3037a0cda1f5ff33a8db4dfa90b37800002600390038003500160013000a00330032002f0005000400150012000900140011000800060003020100' from ::ffff:221.198.80.210:24391 via port 2333 by UID 2333
+2017-06-21 03:22:48 ERROR    tcprelay.py:1091 can not parse header when handling connection from ::ffff:221.198.80.210:24391
+2017-06-21 03:38:56 ERROR    tcprelay.py:1091 unable to parse hostname b'ilekzpj' when handling connection from ::ffff:113.15.1.173:19964
+2017-06-21 03:38:56 ERROR    tcprelay.py:1091 unable to parse hostname b'fbovtfkekkuxry' when handling connection from ::ffff:113.15.1.173:20202
+2017-06-21 03:38:57 ERROR    tcprelay.py:1091 unable to parse hostname b'tlbtqttdstbi' when handling connection from ::ffff:113.15.1.173:20231
+2017-06-21 03:48:56 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-21 03:48:56 ERROR    tcprelay.py:810 exception from ::ffff:113.15.1.173:19912
+2017-06-21 03:48:56 ERROR    shell.py:50 12
+2017-06-21 03:48:57 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-06-21 03:48:57 ERROR    tcprelay.py:810 exception from ::ffff:113.15.1.173:20317
+2017-06-21 03:48:57 ERROR    shell.py:50 12
+2017-06-21 03:57:05 ERROR    tcprelay.py:1091 unable to parse hostname b'zxvmntjocuvczg' when handling connection from ::ffff:116.10.161.241:57567
+2017-06-21 03:57:05 ERROR    tcprelay.py:1091 unable to parse hostname b'vzppniejbkrj' when handling connection from ::ffff:116.10.161.241:57569
+2017-06-21 03:57:05 ERROR    tcprelay.py:1091 unable to parse hostname b'zukzfaxdsiwwa' when handling connection from ::ffff:116.10.161.241:57568
+2017-06-21 04:33:23 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-21 04:57:42 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-21 07:06:33 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-21 08:41:27 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-21 08:49:12 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-21 09:08:09 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-21 11:19:20 ERROR    tcprelay.py:1091 unable to parse hostname b'oeizqzigogh' when handling connection from ::ffff:180.141.13.186:58544
+2017-06-21 11:19:20 ERROR    tcprelay.py:1091 unable to parse hostname b'ctcstknyuxk' when handling connection from ::ffff:180.141.13.186:58559
+2017-06-21 11:19:21 ERROR    tcprelay.py:1091 unable to parse hostname b'fnoenlrrpmx' when handling connection from ::ffff:180.141.13.186:58580
+2017-06-21 11:29:49 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-21 11:30:15 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-06-21 11:30:15 INFO     tcprelay.py:1372 Total connections up to 50
+2017-06-21 11:31:08 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-06-21 11:48:14 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-21 11:48:14 INFO     tcprelay.py:1375 Total connections down to 0
+2017-06-21 12:35:13 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-21 12:36:32 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-21 18:10:21 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-21 18:16:19 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-21 18:49:56 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-21 18:54:19 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-22 01:04:25 ERROR    tcprelay.py:1091 unable to parse hostname b'ejxveyemgkzyj' when handling connection from ::ffff:116.10.161.241:55769
+2017-06-22 01:04:25 ERROR    tcprelay.py:1091 unable to parse hostname b'cbpruom' when handling connection from ::ffff:116.10.161.241:55770
+2017-06-22 01:04:25 ERROR    tcprelay.py:1091 unable to parse hostname b'hyydojexjo' when handling connection from ::ffff:116.10.161.241:55768
+2017-06-22 01:15:06 ERROR    tcprelay.py:1091 unable to parse hostname b'jxdukgjr' when handling connection from ::ffff:116.10.161.241:57865
+2017-06-22 01:15:06 ERROR    tcprelay.py:1091 unable to parse hostname b'onbacdsdaddc' when handling connection from ::ffff:116.10.161.241:57884
+2017-06-22 01:15:06 ERROR    tcprelay.py:1091 unable to parse hostname b'cicmquaoreme' when handling connection from ::ffff:116.10.161.241:57887
+2017-06-22 01:27:15 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-22 01:41:37 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-22 01:59:20 ERROR    tcprelay.py:1091 unable to parse hostname b'upload.ahchoo.cc' when handling connection from ::ffff:116.10.161.241:52566
+2017-06-22 01:59:20 ERROR    tcprelay.py:1091 unable to parse hostname b'upload.ahchoo.cc' when handling connection from ::ffff:116.10.161.241:52572
+2017-06-22 01:59:22 ERROR    tcprelay.py:1091 unable to parse hostname b'upload.ahchoo.cc' when handling connection from ::ffff:116.10.161.241:52578
+2017-06-22 01:59:27 ERROR    tcprelay.py:1091 unable to parse hostname b'upload.ahchoo.cc' when handling connection from ::ffff:116.10.161.241:52600
+2017-06-22 02:11:36 ERROR    tcprelay.py:1091 unable to parse hostname b'szdxxbifjj' when handling connection from ::ffff:116.10.161.241:56144
+2017-06-22 02:11:36 ERROR    tcprelay.py:1091 unable to parse hostname b'moovwxcwwuf' when handling connection from ::ffff:116.10.161.241:56143
+2017-06-22 02:11:36 ERROR    tcprelay.py:1091 unable to parse hostname b'fnscwzuykukwt' when handling connection from ::ffff:116.10.161.241:56150
+2017-06-22 13:06:56 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-22 13:19:16 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-22 13:39:17 ERROR    tcprelay.py:1091 unable to parse hostname b'u.phpwind.com' when handling connection from ::ffff:180.141.13.186:50507
+2017-06-22 13:39:17 ERROR    tcprelay.py:1091 unable to parse hostname b'u.phpwind.com' when handling connection from ::ffff:180.141.13.186:50506
+2017-06-22 13:59:58 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-22 14:05:58 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-22 14:07:07 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-22 14:07:13 ERROR    tcprelay.py:1091 unable to parse hostname b'mai.qq.com' when handling connection from ::ffff:180.141.13.186:49927
+2017-06-22 14:07:14 ERROR    tcprelay.py:1091 unable to parse hostname b'mai.qq.com' when handling connection from ::ffff:180.141.13.186:49937
+2017-06-22 14:14:03 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-22 14:16:48 ERROR    tcprelay.py:1091 unable to parse hostname b'downloads.4kdownload.com' when handling connection from ::ffff:180.141.13.186:52799
+2017-06-22 14:28:07 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-22 14:31:20 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-22 14:33:34 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-22 14:35:52 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-22 14:35:52 ERROR    tcprelay.py:1035 remote error, when connect to addthis.org.cn:443
+2017-06-22 14:35:52 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-22 14:35:52 ERROR    tcprelay.py:1035 remote error, when connect to addthis.org.cn:443
+2017-06-22 14:55:32 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-22 14:56:05 ERROR    tcprelay.py:1091 unable to parse hostname b'potplayertv.xn--d-xhnaaaaaaaaaaaaaaa' when handling connection from ::ffff:180.141.13.186:54309
+2017-06-22 14:58:34 ERROR    tcprelay.py:1091 unable to parse hostname b'potplayertv.xn--d-xhnaaaaaaaaaaaaaaa' when handling connection from ::ffff:180.141.13.186:54368
+2017-06-23 01:10:38 ERROR    tcprelay.py:1091 unable to parse hostname b'mvjlyoqkpdpnnq' when handling connection from ::ffff:116.10.161.241:50304
+2017-06-23 01:10:38 ERROR    tcprelay.py:1091 unable to parse hostname b'qkxxwqm' when handling connection from ::ffff:116.10.161.241:50312
+2017-06-23 01:10:39 ERROR    tcprelay.py:1091 unable to parse hostname b'bxiunomj' when handling connection from ::ffff:116.10.161.241:50310
+2017-06-23 01:47:12 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-23 01:47:12 ERROR    tcprelay.py:1035 remote error, when connect to cms.e-zone.com.hk:80
+2017-06-23 01:47:15 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 01:47:15 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-23 01:47:15 ERROR    tcprelay.py:1035 remote error, when connect to cms.e-zone.com.hk:80
+2017-06-23 01:47:25 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-23 01:47:25 ERROR    tcprelay.py:1035 remote error, when connect to cms.e-zone.com.hk:80
+2017-06-23 01:49:38 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-23 01:51:07 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-23 01:51:07 ERROR    tcprelay.py:1035 remote error, when connect to cms.e-zone.com.hk:80
+2017-06-23 01:51:09 ERROR    tcprelay.py:1033 [Errno 111] Connection refused
+2017-06-23 01:51:09 ERROR    tcprelay.py:1035 remote error, when connect to cms.e-zone.com.hk:80
+2017-06-23 02:00:21 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 02:02:50 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-23 02:10:20 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 02:13:15 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-23 02:16:06 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 02:19:35 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-23 02:30:57 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 02:46:32 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-23 05:44:05 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 05:58:20 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-23 11:15:54 ERROR    tcprelay.py:1091 unable to parse hostname b'xppzlwntksz' when handling connection from ::ffff:180.141.13.186:51738
+2017-06-23 11:15:54 ERROR    tcprelay.py:1091 unable to parse hostname b'dlpinxthjqghfjb' when handling connection from ::ffff:180.141.13.186:51737
+2017-06-23 11:15:55 ERROR    tcprelay.py:1091 unable to parse hostname b'mlimiho' when handling connection from ::ffff:180.141.13.186:51736
+2017-06-23 11:33:57 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 11:41:54 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-23 11:53:25 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 11:55:26 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-23 12:34:23 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 12:41:14 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-23 13:41:44 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 14:29:34 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-23 20:16:13 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-23 20:16:52 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-24 10:23:49 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-24 10:28:30 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-24 11:03:13 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-24 11:09:06 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-24 11:10:48 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-24 11:13:59 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-26 08:15:09 ERROR    tcprelay.py:1091 unable to parse hostname b'ivgqdpipoyjexg' when handling connection from ::ffff:116.10.161.241:49244
+2017-06-26 08:15:09 ERROR    tcprelay.py:1091 unable to parse hostname b'jalzmsbno' when handling connection from ::ffff:116.10.161.241:49237
+2017-06-26 08:15:09 ERROR    tcprelay.py:1091 unable to parse hostname b'ucpfszg' when handling connection from ::ffff:116.10.161.241:49254
+2017-06-26 08:23:23 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-26 08:23:28 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-06-26 08:23:28 INFO     tcprelay.py:1372 Total connections up to 50
+2017-06-26 08:23:43 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-06-26 08:26:51 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-26 08:26:51 INFO     tcprelay.py:1375 Total connections down to 0
+2017-06-26 08:46:14 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-26 08:57:03 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-28 16:08:29 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-28 16:16:35 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-28 16:55:14 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-28 17:19:32 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-29 00:51:09 ERROR    tcprelay.py:1091 unable to parse hostname b'uzpcyselhautkiu' when handling connection from ::ffff:116.10.162.186:57970
+2017-06-29 00:51:10 ERROR    tcprelay.py:1091 unable to parse hostname b'gkvtsrtewomjfia' when handling connection from ::ffff:116.10.162.186:57971
+2017-06-29 00:51:10 ERROR    tcprelay.py:1091 unable to parse hostname b'vqcpfqjqbg' when handling connection from ::ffff:116.10.162.186:57972
+2017-06-29 02:10:28 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-29 02:10:44 ERROR    tcprelay.py:1033 [Errno 32] Broken pipe
+2017-06-29 02:10:44 ERROR    tcprelay.py:1035 remote error, when connect to p.rfihub.com:443
+2017-06-29 02:17:19 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-29 02:20:35 ERROR    tcprelay.py:1091 unable to parse hostname b'auslieferung.commindo-media-resourcen.de' when handling connection from ::ffff:116.10.162.186:51141
+2017-06-29 02:30:15 ERROR    tcprelay.py:1091 unable to parse hostname b'github.atool.org' when handling connection from ::ffff:116.10.162.186:53857
+2017-06-29 02:31:17 ERROR    tcprelay.py:1091 unable to parse hostname b'github.atool.org' when handling connection from ::ffff:116.10.162.186:54175
+2017-06-29 02:32:34 ERROR    tcprelay.py:1091 unable to parse hostname b'github.atool.org' when handling connection from ::ffff:116.10.162.186:54512
+2017-06-29 02:32:41 ERROR    tcprelay.py:1091 unable to parse hostname b'github.atool.org' when handling connection from ::ffff:116.10.162.186:54564
+2017-06-29 02:32:43 ERROR    tcprelay.py:1091 unable to parse hostname b'github.atool.org' when handling connection from ::ffff:116.10.162.186:54577
+2017-06-29 02:33:06 ERROR    tcprelay.py:1091 unable to parse hostname b'github.atool.org' when handling connection from ::ffff:116.10.162.186:54682
+2017-06-29 03:01:45 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-29 03:02:44 ERROR    tcprelay.py:1033 [Errno 32] Broken pipe
+2017-06-29 03:02:44 ERROR    tcprelay.py:1035 remote error, when connect to 20658635p.rfihub.com:443
+2017-06-29 03:03:05 ERROR    tcprelay.py:1033 [Errno 32] Broken pipe
+2017-06-29 03:03:05 ERROR    tcprelay.py:1035 remote error, when connect to 20658635p.rfihub.com:443
+2017-06-29 03:29:37 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-29 03:55:18 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-29 04:10:05 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-29 07:30:20 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-29 07:31:51 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-29 08:38:47 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-29 08:45:25 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-29 10:38:52 ERROR    tcprelay.py:1091 unable to parse hostname b'ejnrujsghl' when handling connection from ::ffff:180.141.14.28:63976
+2017-06-29 10:38:52 ERROR    tcprelay.py:1091 unable to parse hostname b'xpmzvyvotgar' when handling connection from ::ffff:180.141.14.28:63974
+2017-06-29 10:38:52 ERROR    tcprelay.py:1091 unable to parse hostname b'ahwfhzgfii' when handling connection from ::ffff:180.141.14.28:63975
+2017-06-29 11:18:04 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-29 11:22:09 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-29 16:43:44 INFO     util.py:85 loading libcrypto from libcrypto.so.1.0.0
+2017-06-29 16:43:44 INFO     asyncdns.py:324 dns server: [('169.254.169.254', 53), ('127.0.0.53', 53)]
+2017-06-29 16:43:44 INFO     shell.py:72 ShadowsocksR 3.3.3 2017-06-03
+2017-06-29 16:43:44 INFO     db_transfer.py:236 current process RLIMIT_NOFILE resource: soft 512000 hard 512000
+2017-06-29 16:43:44 INFO     db_transfer.py:203 db start server at port [2333] pass [b'19951127'] protocol [b'auth_chain_a'] method [b'none'] obfs [b'tls1.2_ticket_auth']
+2017-06-29 16:43:44 INFO     server_pool.py:127 starting server at [::]:2333
+2017-06-29 16:43:44 INFO     server_pool.py:153 starting server at 0.0.0.0:2333
+2017-06-29 16:54:31 ERROR    tcprelay.py:1091 unable to parse hostname b'znikrgfpn' when handling connection from ::ffff:180.141.14.28:58162
+2017-06-29 16:54:31 ERROR    tcprelay.py:1091 unable to parse hostname b'fnbqxpqikr' when handling connection from ::ffff:180.141.14.28:58163
+2017-06-29 16:54:31 ERROR    tcprelay.py:1091 unable to parse hostname b'qxzxochudg' when handling connection from ::ffff:180.141.14.28:58161
+2017-06-29 16:56:03 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-29 17:06:16 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-29 17:57:28 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-29 18:02:14 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-30 01:56:34 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-30 01:59:10 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-06-30 02:12:25 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-06-30 02:12:47 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-02 19:58:31 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-02 20:02:23 ERROR    tcprelay.py:1091 unable to parse hostname b'tacs_v1.oa.com' when handling connection from ::ffff:58.59.220.136:51119
+2017-07-02 20:03:38 ERROR    tcprelay.py:1091 unable to parse hostname b'static.duoshuo.com' when handling connection from ::ffff:58.59.220.136:51546
+2017-07-02 20:04:12 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-03 02:24:48 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-03 02:26:29 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-03 04:04:08 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-03 04:04:35 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-03 10:58:25 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-03 11:00:48 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-03 13:13:29 ERROR    tcprelay.py:1091 unable to parse hostname b'ued.dev.wanmei.com' when handling connection from ::ffff:58.59.220.136:54322
+2017-07-03 13:47:36 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-03 13:48:39 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-03 14:59:43 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-03 15:03:05 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-03 15:06:39 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-03 15:06:42 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-03 15:32:58 ERROR    tcprelay.py:1091 unable to parse hostname b'tacs_v1.oa.com' when handling connection from ::ffff:58.59.220.136:54972
+2017-07-04 10:59:54 ERROR    tcprelay.py:1091 unable to parse hostname b'tacs_v1.oa.com' when handling connection from ::ffff:58.59.220.136:61706
+2017-07-04 11:06:14 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-04 11:38:57 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-05 04:44:48 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-05 04:45:29 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-05 18:57:15 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-05 19:02:01 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-06 13:41:27 INFO     db_transfer.py:203 db start server at port [2334] pass [b'xuzihao'] protocol [b'auth_chain_a'] method [b'none'] obfs [b'tls1.2_ticket_auth']
+2017-07-06 13:41:27 INFO     server_pool.py:127 starting server at [::]:2334
+2017-07-06 13:41:27 INFO     server_pool.py:153 starting server at 0.0.0.0:2334
+2017-07-06 13:51:40 INFO     util.py:85 loading libcrypto from libcrypto.so.1.0.0
+2017-07-06 13:51:40 INFO     asyncdns.py:324 dns server: [('169.254.169.254', 53), ('127.0.0.53', 53)]
+2017-07-06 13:51:40 INFO     shell.py:72 ShadowsocksR 3.3.3 2017-06-03
+2017-07-06 13:51:40 INFO     db_transfer.py:236 current process RLIMIT_NOFILE resource: soft 512000 hard 512000
+2017-07-06 13:51:40 INFO     db_transfer.py:203 db start server at port [2333] pass [b'19951127'] protocol [b'auth_chain_a'] method [b'none'] obfs [b'tls1.2_ticket_auth']
+2017-07-06 13:51:40 INFO     server_pool.py:127 starting server at [::]:2333
+2017-07-06 13:51:40 INFO     server_pool.py:153 starting server at 0.0.0.0:2333
+2017-07-06 13:51:40 INFO     db_transfer.py:203 db start server at port [2335] pass [b'xuzihao'] protocol [b'auth_chain_a'] method [b'none'] obfs [b'tls1.2_ticket_auth']
+2017-07-06 13:51:40 INFO     server_pool.py:127 starting server at [::]:2335
+2017-07-06 13:51:40 INFO     server_pool.py:153 starting server at 0.0.0.0:2335
+2017-07-06 14:00:22 ERROR    tcprelay.py:1091 unable to parse hostname b'ahkxblnq' when handling connection from ::ffff:58.59.220.136:56758
+2017-07-06 14:00:24 ERROR    tcprelay.py:1091 unable to parse hostname b'yzaqmzvqnyxj' when handling connection from ::ffff:58.59.220.136:56760
+2017-07-06 14:00:24 ERROR    tcprelay.py:1091 unable to parse hostname b'kzkugqiateal' when handling connection from ::ffff:58.59.220.136:56759
+2017-07-06 14:00:25 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-06 14:01:05 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-06 14:15:39 ERROR    tcprelay.py:1091 unable to parse hostname b'telegraph-ash.instagram.com' when handling connection from ::ffff:58.59.220.136:50487
+2017-07-06 14:15:41 ERROR    tcprelay.py:1091 unable to parse hostname b'telegraph-ash.instagram.com' when handling connection from ::ffff:58.59.220.136:50493
+2017-07-06 14:15:42 ERROR    tcprelay.py:1091 unable to parse hostname b'telegraph-ash.instagram.com' when handling connection from ::ffff:58.59.220.136:50499
+2017-07-06 14:15:44 ERROR    tcprelay.py:1091 unable to parse hostname b'telegraph-ash.instagram.com' when handling connection from ::ffff:58.59.220.136:50501
+2017-07-06 14:15:46 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-06 14:15:48 ERROR    tcprelay.py:1091 unable to parse hostname b'telegraph-ash.instagram.com' when handling connection from ::ffff:58.59.220.136:50518
+2017-07-06 14:15:54 ERROR    tcprelay.py:1091 unable to parse hostname b'telegraph-ash.instagram.com' when handling connection from ::ffff:58.59.220.136:50520
+2017-07-06 14:16:03 ERROR    tcprelay.py:1091 unable to parse hostname b'telegraph-ash.instagram.com' when handling connection from ::ffff:58.59.220.136:50522
+2017-07-06 14:16:13 ERROR    tcprelay.py:1091 unable to parse hostname b'telegraph-ash.instagram.com' when handling connection from ::ffff:58.59.220.136:50524
+2017-07-06 14:16:24 ERROR    tcprelay.py:1091 unable to parse hostname b'telegraph-ash.instagram.com' when handling connection from ::ffff:58.59.220.136:50526
+2017-07-06 14:16:36 ERROR    tcprelay.py:1091 unable to parse hostname b'telegraph-ash.instagram.com' when handling connection from ::ffff:58.59.220.136:50555
+2017-07-06 14:18:17 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-06 15:54:51 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-06 15:55:40 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-06 15:56:59 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-06 16:03:11 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-06 17:07:44 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-06 17:10:46 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-06 19:20:35 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-06 19:22:35 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-07 10:38:06 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-07 10:39:13 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-07 10:41:13 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-07 10:42:56 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-07 10:52:17 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-07 10:54:57 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-07 11:25:38 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-07 11:27:07 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-07 11:41:19 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-07 11:43:27 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-07 13:11:02 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-07 13:13:32 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-07 13:19:48 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-07 13:21:52 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-07 14:26:02 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:58.59.220.136:58065
+2017-07-07 14:26:08 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:58.59.220.136:58097
+2017-07-07 20:45:37 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-07 20:47:55 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-08 06:52:45 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-08 06:52:45 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:16793
+2017-07-08 06:57:07 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-08 06:58:04 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-08 06:58:04 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:16853
+2017-07-08 07:02:16 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-08 07:02:16 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:16855
+2017-07-08 07:04:24 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-08 07:04:24 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:16892
+2017-07-08 07:04:44 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-08 07:04:44 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:16906
+2017-07-08 07:09:13 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-08 07:09:13 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:16988
+2017-07-08 07:19:32 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-08 11:59:30 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-08 11:59:30 ERROR    tcprelay.py:810 exception from ::ffff:58.59.220.136:59941
+2017-07-08 11:59:30 ERROR    shell.py:50 22
+2017-07-08 11:59:30 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-08 11:59:30 ERROR    tcprelay.py:810 exception from ::ffff:58.59.220.136:59939
+2017-07-08 11:59:30 ERROR    shell.py:50 18
+2017-07-08 11:59:46 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-08 11:59:46 ERROR    tcprelay.py:810 exception from ::ffff:58.59.220.136:60036
+2017-07-08 11:59:46 ERROR    shell.py:50 48
+2017-07-08 11:59:50 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-08 12:05:28 ERROR    tcprelay.py:1091 unable to parse hostname b'kraewbyrbgc' when handling connection from ::ffff:58.59.220.136:61256
+2017-07-08 12:05:28 ERROR    tcprelay.py:1091 unable to parse hostname b'mpnauvyudvhzbpj' when handling connection from ::ffff:58.59.220.136:61257
+2017-07-08 12:05:28 ERROR    tcprelay.py:1091 unable to parse hostname b'cluqwni' when handling connection from ::ffff:58.59.220.136:61255
+2017-07-08 12:11:07 ERROR    tcprelay.py:1091 unable to parse hostname b'klrgmfpqlny' when handling connection from ::ffff:58.59.220.136:62401
+2017-07-08 12:11:07 ERROR    tcprelay.py:1091 unable to parse hostname b'uvkotllo' when handling connection from ::ffff:58.59.220.136:62403
+2017-07-08 12:11:07 ERROR    tcprelay.py:1091 unable to parse hostname b'uxtoeazvs' when handling connection from ::ffff:58.59.220.136:62402
+2017-07-08 12:11:25 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-08 15:12:26 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-08 15:14:23 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-09 12:41:16 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-09 12:41:16 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:17296
+2017-07-09 12:49:11 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-09 12:49:11 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:17362
+2017-07-10 15:25:05 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-10 15:27:04 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-10 15:29:53 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-10 15:30:03 INFO     tcprelay.py:1348 port 2335 connections up to 50
+2017-07-10 15:30:03 INFO     tcprelay.py:1372 Total connections up to 50
+2017-07-10 15:30:04 ERROR    tcprelay.py:1091 unable to parse hostname b'xjnbcnlwsoedjwc' when handling connection from ::ffff:113.12.161.121:17806
+2017-07-10 15:30:04 ERROR    tcprelay.py:1091 unable to parse hostname b'nzkvweoxs' when handling connection from ::ffff:113.12.161.121:17809
+2017-07-10 15:30:05 ERROR    tcprelay.py:1091 unable to parse hostname b'jnjgsmvfs' when handling connection from ::ffff:113.12.161.121:17808
+2017-07-10 15:31:05 INFO     tcprelay.py:1351 port 2335 connections down to 25
+2017-07-10 15:32:00 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-10 15:32:00 INFO     tcprelay.py:1375 Total connections down to 0
+2017-07-10 15:34:30 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-10 15:37:45 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-10 16:36:09 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-10 16:36:53 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-10 16:39:17 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-10 16:39:33 ERROR    tcprelay.py:1091 unable to parse hostname b'jkpaoqwyrf' when handling connection from ::ffff:113.12.161.121:19857
+2017-07-10 16:39:33 ERROR    tcprelay.py:1091 unable to parse hostname b'caedqqvvatmru' when handling connection from ::ffff:113.12.161.121:19859
+2017-07-10 16:39:34 ERROR    tcprelay.py:1091 unable to parse hostname b'explvmt' when handling connection from ::ffff:113.12.161.121:19858
+2017-07-10 16:39:39 INFO     tcprelay.py:1348 port 2335 connections up to 50
+2017-07-10 16:39:39 INFO     tcprelay.py:1372 Total connections up to 50
+2017-07-10 16:39:59 INFO     tcprelay.py:1351 port 2335 connections down to 25
+2017-07-10 16:44:02 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-10 16:44:02 INFO     tcprelay.py:1375 Total connections down to 0
+2017-07-10 20:45:39 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-10 20:51:10 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 06:05:45 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 06:07:25 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 06:10:32 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 06:11:37 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 08:47:49 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 08:49:28 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-11 08:49:28 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:19531
+2017-07-11 09:23:27 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-11 09:23:27 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:20230
+2017-07-11 09:25:02 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-11 09:25:02 ERROR    tcprelay.py:394 exception from ::ffff:113.12.161.121:20246
+2017-07-11 09:31:28 ERROR    tcprelay.py:1033 [Errno 32] Broken pipe
+2017-07-11 09:31:28 ERROR    tcprelay.py:1035 remote error, when connect to vtt.tumblr.com:443
+2017-07-11 09:33:57 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 10:59:56 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 11:01:20 ERROR    tcprelay.py:1091 unable to parse hostname b'1.qtmojo.com' when handling connection from ::ffff:113.12.161.121:18145
+2017-07-11 11:03:51 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 11:24:37 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 11:28:04 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 12:18:24 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 12:19:25 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 12:26:14 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 12:27:17 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 18:32:57 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 18:34:44 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 18:36:15 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 18:37:32 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 18:41:06 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 18:42:33 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 19:24:55 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 19:26:47 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 19:27:53 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 19:30:59 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 19:31:19 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 19:32:55 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 19:33:17 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 19:34:17 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 19:34:58 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 19:36:44 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 19:52:29 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 19:53:31 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-11 20:04:24 ERROR    tcprelay.py:1091 unable to parse hostname b'static.chuang.pro' when handling connection from ::ffff:113.12.161.121:19785
+2017-07-11 20:04:27 ERROR    tcprelay.py:1091 unable to parse hostname b'chuang.pro' when handling connection from ::ffff:113.12.161.121:19820
+2017-07-11 20:36:18 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-11 20:39:13 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-13 08:43:44 INFO     util.py:85 loading libcrypto from libcrypto.so.1.0.0
+2017-07-13 08:43:44 INFO     asyncdns.py:324 dns server: [('169.254.169.254', 53), ('127.0.0.53', 53)]
+2017-07-13 08:43:44 INFO     shell.py:72 ShadowsocksR 3.3.3 2017-06-03
+2017-07-13 08:43:44 INFO     db_transfer.py:236 current process RLIMIT_NOFILE resource: soft 512000 hard 512000
+2017-07-13 08:43:44 INFO     db_transfer.py:203 db start server at port [2333] pass [b'19951127'] protocol [b'auth_chain_a'] method [b'none'] obfs [b'tls1.2_ticket_auth']
+2017-07-13 08:43:44 INFO     server_pool.py:127 starting server at [::]:2333
+2017-07-13 08:43:44 INFO     server_pool.py:153 starting server at 0.0.0.0:2333
+2017-07-13 08:43:44 INFO     db_transfer.py:203 db start server at port [2335] pass [b'xuzihao'] protocol [b'auth_chain_a'] method [b'none'] obfs [b'tls1.2_ticket_auth']
+2017-07-13 08:43:44 INFO     server_pool.py:127 starting server at [::]:2335
+2017-07-13 08:43:44 INFO     server_pool.py:153 starting server at 0.0.0.0:2335
+2017-07-13 10:20:26 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-13 10:20:39 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-13 10:23:21 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-13 10:26:20 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-13 10:30:59 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-13 10:31:36 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-13 12:52:30 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-13 12:53:30 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-13 12:54:29 ERROR    tcprelay.py:1091 unable to parse hostname b'stat.pcgeshi.com' when handling connection from ::ffff:113.12.161.121:19296
+2017-07-13 12:57:30 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-13 13:00:45 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-14 18:55:32 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-14 18:55:34 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-15 05:40:29 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-15 05:43:50 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-15 12:18:18 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-15 12:18:19 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-18 16:24:07 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-18 16:24:36 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-18 18:28:13 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-18 18:31:04 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-18 18:49:02 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-18 18:49:30 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-18 18:56:11 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-18 18:57:27 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-18 19:42:46 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-18 19:42:46 ERROR    tcprelay.py:394 exception from ::ffff:180.136.227.103:24040
+2017-07-19 17:39:46 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-19 17:40:59 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-19 17:44:27 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-19 17:48:37 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-19 17:55:43 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-19 17:57:30 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-19 18:43:16 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-19 18:44:17 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-19 19:54:50 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-19 19:59:26 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-19 22:57:08 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-19 22:57:50 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-19 23:06:11 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-19 23:07:26 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-19 23:08:57 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-19 23:11:01 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-19 23:29:48 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-19 23:32:40 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-19 23:40:21 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-19 23:44:35 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-20 05:41:40 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-20 05:44:01 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-20 05:44:11 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-20 05:46:45 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-20 06:31:01 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-20 06:31:47 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-20 07:45:12 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-20 07:49:28 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-20 08:42:20 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-20 08:45:05 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-20 08:53:52 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-20 08:56:12 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-20 09:01:14 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-20 09:03:16 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-20 09:12:16 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-20 09:14:19 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-20 09:29:39 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-20 09:33:06 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-21 00:30:30 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-21 00:30:50 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-21 14:14:58 ERROR    tcprelay.py:1091 unable to parse hostname b'downloads.4kdownload.com' when handling connection from ::ffff:171.109.176.167:54155
+2017-07-23 07:42:23 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-23 07:45:06 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-23 08:06:07 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-23 08:06:52 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-23 09:19:22 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-23 09:20:23 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-23 09:39:21 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-23 09:41:02 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-23 14:02:00 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-23 14:06:03 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-23 14:28:37 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-23 14:34:33 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-23 14:36:01 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-23 14:45:12 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-24 05:05:49 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-24 05:07:03 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-24 05:09:42 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-24 05:10:16 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-24 05:10:17 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-24 05:11:49 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-24 05:13:11 ERROR    tcprelay.py:1091 unable to parse hostname b'stat.pcgeshi.com' when handling connection from ::ffff:113.12.163.187:63576
+2017-07-24 14:58:19 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-24 15:00:01 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-24 15:07:24 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-24 15:08:42 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-24 23:12:38 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-24 23:14:48 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-07-24 23:14:48 INFO     tcprelay.py:1372 Total connections up to 50
+2017-07-24 23:14:48 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-07-24 23:15:06 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-07-24 23:15:39 ERROR    tcprelay.py:1091 unable to parse hostname b'test.nginx.m.baidu.com' when handling connection from ::ffff:180.141.12.146:54816
+2017-07-24 23:16:01 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-07-24 23:18:00 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-07-24 23:18:10 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-07-24 23:18:27 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-07-24 23:19:03 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-07-24 23:29:46 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-24 23:29:46 INFO     tcprelay.py:1375 Total connections down to 0
+2017-07-24 23:39:51 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-24 23:40:09 INFO     tcprelay.py:1348 port 2333 connections up to 50
+2017-07-24 23:40:09 INFO     tcprelay.py:1372 Total connections up to 50
+2017-07-24 23:40:57 INFO     tcprelay.py:1351 port 2333 connections down to 25
+2017-07-24 23:42:20 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-24 23:42:20 INFO     tcprelay.py:1375 Total connections down to 0
+2017-07-24 23:45:32 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-24 23:47:46 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-26 14:49:30 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.141.12.146:49933
+2017-07-26 14:52:20 ERROR    tcprelay.py:1091 unable to parse hostname b'www.localnetwork.uop' when handling connection from ::ffff:180.141.12.146:50055
+2017-07-26 16:08:40 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-26 16:15:46 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-26 16:15:52 INFO     obfs_tls.py:288 tls_auth wrong time
+2017-07-26 16:15:52 WARNING  common.py:238 unsupported addrtype 69, maybe wrong password or encryption method
+2017-07-26 16:15:52 WARNING  tcprelay.py:519 Protocol ERROR, TCP ogn data b'16030101a30100019f03035964f9b8a5c064f0ff56f2dd7c9a9c0c48c4ab5476027c5af98c45e6a4639d89208a2f10e7d9dde8728bef3536765f2a0412d94e8cdc3a17f8c42eb4e32ac0e8ff001cc02bc02fcca9cca8cc14cc13c00ac014c009c013009c0035002f000a0100013aff010001000000000e000c000009616863686f6f2e63630017000000230076e068b7f2a139c5c7559c37f830bd1fefc574c0590999b0494cb6d1b036fc2880015b5fdcfaaad566cdee031b316623e96b66694c0db3722f132fc243a83eff01ca199b2a07e43921ec73c6955574528672a5ad339e5125b5d182235cbdcf538129f4e302aaf81ba52c5eeaa85e8a5f9f8c49c0415c90000d0016001406010603050105030401040303010303020102030005000501000000000012000075500000000b00020100000a000600040017001800150066000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000' from ::ffff:180.141.12.146:54429 via port 2333 by UID 2333
+2017-07-26 16:15:52 ERROR    tcprelay.py:1091 can not parse header when handling connection from ::ffff:180.141.12.146:54429
+2017-07-26 16:59:05 INFO     tcprelay.py:1348 port 2335 connections up to 25
+2017-07-26 16:59:49 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-26 16:59:49 ERROR    tcprelay.py:394 exception from ::ffff:113.12.163.187:63629
+2017-07-26 17:03:44 INFO     tcprelay.py:1351 port 2335 connections down to 0
+2017-07-26 17:04:28 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-26 17:04:28 ERROR    tcprelay.py:394 exception from ::ffff:113.12.163.187:63546
+2017-07-26 17:33:33 ERROR    shell.py:50 [Errno 104] Connection reset by peer
+2017-07-26 17:33:33 ERROR    tcprelay.py:394 exception from ::ffff:180.141.12.146:51462
+2017-07-26 17:34:00 ERROR    tcprelay.py:1091 unable to parse hostname b'tacs_v1.oa.com' when handling connection from ::ffff:180.141.12.146:52032
+2017-07-27 16:45:05 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:45:05 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:54504
+2017-07-27 16:45:05 ERROR    shell.py:50 12
+2017-07-27 16:45:05 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:45:05 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:54500
+2017-07-27 16:45:05 ERROR    shell.py:50 13
+2017-07-27 16:45:05 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:45:05 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:54498
+2017-07-27 16:45:05 ERROR    shell.py:50 14
+2017-07-27 16:45:05 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:45:05 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:54502
+2017-07-27 16:45:05 ERROR    shell.py:50 14
+2017-07-27 16:45:06 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:45:06 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:54518
+2017-07-27 16:45:06 ERROR    shell.py:50 15
+2017-07-27 16:45:06 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:45:06 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:54523
+2017-07-27 16:45:06 ERROR    shell.py:50 15
+2017-07-27 16:45:06 ERROR    tcprelay.py:1091 unable to parse hostname b'nwfscfhsokxzycz' when handling connection from ::ffff:180.141.12.146:54519
+2017-07-27 16:45:06 ERROR    tcprelay.py:1091 unable to parse hostname b'dxrlpxsncv' when handling connection from ::ffff:180.141.12.146:54521
+2017-07-27 16:45:06 ERROR    tcprelay.py:1091 unable to parse hostname b'lnufljue' when handling connection from ::ffff:180.141.12.146:54520
+2017-07-27 16:45:08 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-27 16:48:49 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:48:49 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:55335
+2017-07-27 16:48:49 ERROR    shell.py:50 41
+2017-07-27 16:48:59 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:48:59 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:55419
+2017-07-27 16:48:59 ERROR    shell.py:50 42
+2017-07-27 16:49:09 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:49:09 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:55469
+2017-07-27 16:49:09 ERROR    shell.py:50 44
+2017-07-27 16:49:19 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:49:19 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:55605
+2017-07-27 16:49:19 ERROR    shell.py:50 49
+2017-07-27 16:50:04 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:50:04 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:55801
+2017-07-27 16:50:04 ERROR    shell.py:50 54
+2017-07-27 16:50:04 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:50:04 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:55809
+2017-07-27 16:50:04 ERROR    shell.py:50 54
+2017-07-27 16:51:58 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:51:58 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:56116
+2017-07-27 16:51:58 ERROR    shell.py:50 32
+2017-07-27 16:52:08 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:52:08 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:56134
+2017-07-27 16:52:08 ERROR    shell.py:50 32
+2017-07-27 16:52:47 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:52:47 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:56213
+2017-07-27 16:52:47 ERROR    shell.py:50 17
+2017-07-27 16:55:05 ERROR    shell.py:50 [Errno 101] Network is unreachable
+2017-07-27 16:55:05 ERROR    tcprelay.py:810 exception from ::ffff:180.141.12.146:56508
+2017-07-27 16:55:05 ERROR    shell.py:50 14
+2017-07-27 17:05:33 INFO     tcprelay.py:1351 port 2333 connections down to 0
+2017-07-27 17:05:40 ERROR    tcprelay.py:1091 unable to parse hostname b'ychwunjwlnolwav' when handling connection from ::ffff:180.141.12.146:59079
+2017-07-27 17:05:40 ERROR    tcprelay.py:1091 unable to parse hostname b'pnhfbfvohpdmja' when handling connection from ::ffff:180.141.12.146:59080
+2017-07-27 17:05:40 ERROR    tcprelay.py:1091 unable to parse hostname b'fenbpkv' when handling connection from ::ffff:180.141.12.146:59082
+2017-07-28 01:02:41 ERROR    tcprelay.py:1091 unable to parse hostname b'gtxslyuchs' when handling connection from ::ffff:219.159.129.27:60563
+2017-07-28 01:02:41 ERROR    tcprelay.py:1091 unable to parse hostname b'wqyfbzfsl' when handling connection from ::ffff:219.159.129.27:60564
+2017-07-28 01:02:41 ERROR    tcprelay.py:1091 unable to parse hostname b'xgjnybnpdf' when handling connection from ::ffff:219.159.129.27:60562
+2017-07-28 01:18:41 ERROR    tcprelay.py:1091 unable to parse hostname b'nopnbbbpetrbfcb' when handling connection from ::ffff:219.159.129.27:49461
+2017-07-28 01:18:41 ERROR    tcprelay.py:1091 unable to parse hostname b'uhbtstymqmaez' when handling connection from ::ffff:219.159.129.27:49459
+2017-07-28 01:18:41 ERROR    tcprelay.py:1091 unable to parse hostname b'kwwroqcxxn' when handling connection from ::ffff:219.159.129.27:49460
+2017-07-28 01:20:10 INFO     tcprelay.py:1348 port 2333 connections up to 25
+2017-07-28 04:56:11 ERROR    tcprelay.py:1091 unable to parse hostname b'esu.tv' when handling connection from ::ffff:219.159.129.27:61780
+2017-07-28 04:56:14 ERROR    tcprelay.py:1091 unable to parse hostname b'esu.tv' when handling connection from ::ffff:219.159.129.27:61801
+2017-07-28 04:56:15 ERROR    tcprelay.py:1091 unable to parse hostname b'esu.tv' when handling connection from ::ffff:219.159.129.27:61807
